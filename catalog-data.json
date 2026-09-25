@@ -1,0 +1,425 @@
+{
+ "hombre": [
+  {
+   "imgs": [
+    "catalog/sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp-1.webp",
+    "catalog/sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp-2.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Sudadera con capucha y cremallera Puma gris, talla M",
+   "price": "21,95 €",
+   "slug": "sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp",
+   "condition": "",
+   "destacado": true
+  },
+  {
+   "imgs": [
+    "catalog/chaqueta-de-cuero-negra-estilo-motero-1.webp",
+    "catalog/chaqueta-de-cuero-negra-estilo-motero-2.webp"
+   ],
+   "meta": "TALLA L · EXCELLENT",
+   "name": "Chaqueta de cuero negra estilo motero",
+   "price": "19,95 €",
+   "slug": "chaqueta-de-cuero-negra-estilo-motero",
+   "condition": "Excelente estado"
+  },
+  {
+   "imgs": [
+    "catalog/jersey-gris-de-rayas-cuello-cremallera-talla-l-1.webp",
+    "catalog/jersey-gris-de-rayas-cuello-cremallera-talla-l-2.webp"
+   ],
+   "meta": "TALLA L",
+   "name": "Jersey gris de rayas cuello cremallera, talla L",
+   "price": "10,95 €",
+   "slug": "jersey-gris-de-rayas-cuello-cremallera-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-manga-larga-superdry-azul-y-gris-1.webp",
+    "catalog/camiseta-manga-larga-superdry-azul-y-gris-2.webp"
+   ],
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Camiseta manga larga Superdry azul y gris",
+   "price": "9,95 €",
+   "slug": "camiseta-manga-larga-superdry-azul-y-gris",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-puma-lila-1.webp",
+    "catalog/camiseta-puma-lila-2.webp"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Camiseta Puma lila",
+   "price": "9,95 €",
+   "slug": "camiseta-puma-lila",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-nike-gris-logo-camuflaje-1.webp",
+    "catalog/camiseta-nike-gris-logo-camuflaje-2.webp"
+   ],
+   "meta": "TALLA L · EXCELLENT",
+   "name": "Camiseta Nike gris logo camuflaje",
+   "price": "11,95 €",
+   "slug": "camiseta-nike-gris-logo-camuflaje",
+   "condition": "Excelente estado"
+  },
+  {
+   "imgs": [
+    "catalog/camisa-la-martina-polo-pampas-azul-marino-talla-m-1.webp",
+    "catalog/camisa-la-martina-polo-pampas-azul-marino-talla-m-2.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Camisa La Martina Polo Pampas azul marino, talla M",
+   "price": "19,95 €",
+   "slug": "camisa-la-martina-polo-pampas-azul-marino-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-adidas-originals-blanca-talla-s-1.webp",
+    "catalog/camiseta-adidas-originals-blanca-talla-s-2.webp"
+   ],
+   "meta": "TALLA S",
+   "name": "Camiseta Adidas Originals blanca, talla S",
+   "price": "9,95 €",
+   "slug": "camiseta-adidas-originals-blanca-talla-s",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-nike-just-do-it-negra-talla-m-1.webp",
+    "catalog/camiseta-nike-just-do-it-negra-talla-m-2.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Camiseta Nike Just Do It negra, talla M",
+   "price": "12,95 €",
+   "slug": "camiseta-nike-just-do-it-negra-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-jordan-negra-talla-l-1.webp",
+    "catalog/camiseta-jordan-negra-talla-l-2.webp"
+   ],
+   "meta": "TALLA L",
+   "name": "Camiseta Jordan negra, talla L",
+   "price": "9,95 €",
+   "slug": "camiseta-jordan-negra-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-hugo-boss-azul-marino-1.webp",
+    "catalog/camiseta-hugo-boss-azul-marino-2.webp"
+   ],
+   "meta": "TALLA XL · EXCELLENT",
+   "name": "Camiseta Hugo Boss azul marino",
+   "price": "15,00 €",
+   "slug": "camiseta-hugo-boss-azul-marino",
+   "condition": "Excelente estado"
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-vans-negra-1.webp",
+    "catalog/camiseta-vans-negra-2.webp"
+   ],
+   "meta": "TALLA S · EXCELLENT",
+   "name": "Camiseta Vans negra",
+   "price": "9,95 €",
+   "slug": "camiseta-vans-negra",
+   "condition": "Excelente estado"
+  },
+  {
+   "imgs": [
+    "catalog/vaquero-tommy-hilfiger-azul-talla-31-1.webp",
+    "catalog/vaquero-tommy-hilfiger-azul-talla-31-2.webp"
+   ],
+   "meta": "TALLA 31",
+   "name": "Vaquero Tommy Hilfiger azul, talla 31",
+   "price": "16,95 €",
+   "slug": "vaquero-tommy-hilfiger-azul-talla-31",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/vaquero-rustler-negro-1.webp",
+    "catalog/vaquero-rustler-negro-2.webp"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Vaquero Rustler negro",
+   "price": "14,95 €",
+   "slug": "vaquero-rustler-negro",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/vaquero-ruta66-hombre-corte-recto-tiro-alto-azul-1.webp",
+    "catalog/vaquero-ruta66-hombre-corte-recto-tiro-alto-azul-2.webp"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Vaquero Ruta66 Hombre Corte Recto Tiro Alto Azul",
+   "price": "20,00 €",
+   "slug": "vaquero-ruta66-hombre-corte-recto-tiro-alto-azul",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/pantalon-cargo-massimo-dutti-beige-talla-l-1.webp",
+    "catalog/pantalon-cargo-massimo-dutti-beige-talla-l-2.webp"
+   ],
+   "meta": "TALLA L",
+   "name": "Pantalón cargo Massimo Dutti beige, talla L",
+   "price": "24,95 €",
+   "slug": "pantalon-cargo-massimo-dutti-beige-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/pantalon-vaquero-verde-caqui-ancho-talla-38-1.webp",
+    "catalog/pantalon-vaquero-verde-caqui-ancho-talla-38-2.webp"
+   ],
+   "meta": "TALLA 38",
+   "name": "Pantalón vaquero verde caqui ancho, talla 38",
+   "price": "19,95 €",
+   "slug": "pantalon-vaquero-verde-caqui-ancho-talla-38",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/pantalon-de-chandal-adidas-negro-talla-m-1.webp",
+    "catalog/pantalon-de-chandal-adidas-negro-talla-m-2.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Pantalón de chándal Adidas negro, talla M",
+   "price": "14,95 €",
+   "slug": "pantalon-de-chandal-adidas-negro-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/pantalon-de-chandal-fila-negro-talla-m-1.webp",
+    "catalog/pantalon-de-chandal-fila-negro-talla-m-2.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Pantalón de chándal Fila negro, talla M",
+   "price": "19,95 €",
+   "slug": "pantalon-de-chandal-fila-negro-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/pantalon-de-chandal-adidas-azul-marino-talla-xl-1.webp",
+    "catalog/pantalon-de-chandal-adidas-azul-marino-talla-xl-2.webp"
+   ],
+   "meta": "TALLA XL",
+   "name": "Pantalón de chándal Adidas azul marino, talla XL",
+   "price": "24,95 €",
+   "slug": "pantalon-de-chandal-adidas-azul-marino-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/track-pant-adidas-nailon-gris-1.webp",
+    "catalog/track-pant-adidas-nailon-gris-2.webp"
+   ],
+   "meta": "TALLA L · EXCELLENT",
+   "name": "Track pant Adidas nailon gris",
+   "price": "24,95 €",
+   "slug": "track-pant-adidas-nailon-gris",
+   "condition": "Excelente estado"
+  },
+  {
+   "imgs": [
+    "catalog/track-pant-adidas-azul-marino-1.webp",
+    "catalog/track-pant-adidas-azul-marino-2.webp"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Track pant Adidas azul marino",
+   "price": "24,95 €",
+   "slug": "track-pant-adidas-azul-marino",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/chaleco-nike-air-negro-sin-mangas-1.webp",
+    "catalog/chaleco-nike-air-negro-sin-mangas-2.webp"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaleco Nike Air Negro Sin Mangas",
+   "price": "19,95 €",
+   "slug": "chaleco-nike-air-negro-sin-mangas",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/sudadera-champion-negra-1.webp",
+    "catalog/sudadera-champion-negra-2.webp"
+   ],
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Sudadera Champion negra",
+   "price": "14,95 €",
+   "slug": "sudadera-champion-negra",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/sudadera-puma-negra-talla-m-1.webp",
+    "catalog/sudadera-puma-negra-talla-m-2.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Sudadera Puma negra, talla M",
+   "price": "9,95 €",
+   "slug": "sudadera-puma-negra-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/sudadera-champion-azul-marino-talla-m-1.webp",
+    "catalog/sudadera-champion-azul-marino-talla-m-2.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Sudadera Champion azul marino, talla M",
+   "price": "9,95 €",
+   "slug": "sudadera-champion-azul-marino-talla-m",
+   "condition": ""
+  }
+ ],
+ "mujer": [
+  {
+   "imgs": [
+    "catalog/camiseta-adidas-negra-estampado-fragmentado-talla-m-1.webp",
+    "catalog/camiseta-adidas-negra-estampado-fragmentado-talla-m-2.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Camiseta Adidas negra estampado fragmentado, talla M",
+   "price": "9,95 €",
+   "slug": "camiseta-adidas-negra-estampado-fragmentado-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-versace-celeste-talla-l-1.webp",
+    "catalog/camiseta-versace-celeste-talla-l-2.webp"
+   ],
+   "meta": "TALLA L",
+   "name": "Camiseta Versace celeste, talla L",
+   "price": "15,00 €",
+   "slug": "camiseta-versace-celeste-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/vaquero-vintage-dressing-onyx-jeans-azul-talla-27-1.webp",
+    "catalog/vaquero-vintage-dressing-onyx-jeans-azul-talla-27-2.webp"
+   ],
+   "meta": "TALLA 27",
+   "name": "Vaquero Vintage Dressing Onyx Jeans azul, talla 27",
+   "price": "19,95 €",
+   "slug": "vaquero-vintage-dressing-onyx-jeans-azul-talla-27",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/vaquero-levi-s-560-hombre-corte-recto-lavado-medio-1.webp",
+    "catalog/vaquero-levi-s-560-hombre-corte-recto-lavado-medio-2.webp"
+   ],
+   "meta": "TALLA W38 L30 · MUY BUENO",
+   "name": "Vaquero Levi's 560 Hombre Corte Recto Lavado Medio",
+   "price": "19,95 €",
+   "slug": "vaquero-levi-s-560-hombre-corte-recto-lavado-medio",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/vaquero-hamilton-azul-talla-27-1.webp",
+    "catalog/vaquero-hamilton-azul-talla-27-2.webp"
+   ],
+   "meta": "TALLA 27",
+   "name": "Vaquero Hamilton azul, talla 27",
+   "price": "19,95 €",
+   "slug": "vaquero-hamilton-azul-talla-27",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/vaquero-estampado-geometrico-cintura-elastica-1.webp",
+    "catalog/vaquero-estampado-geometrico-cintura-elastica-2.webp"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Vaquero Estampado Geométrico Cintura Elástica",
+   "price": "12,95 €",
+   "slug": "vaquero-estampado-geometrico-cintura-elastica",
+   "condition": "Muy buen estado"
+  },
+  {
+   "imgs": [
+    "catalog/vaquero-guess-brittney-skinny-verde-talla-28-1.webp"
+   ],
+   "meta": "TALLA 28",
+   "name": "Vaquero Guess Brittney Skinny verde, talla 28",
+   "price": "19,95 €",
+   "slug": "vaquero-guess-brittney-skinny-verde-talla-28",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/falda-vaquera-trussardi-marron-cargo-talla-m-1.webp"
+   ],
+   "meta": "TALLA M",
+   "name": "Falda vaquera Trussardi marrón cargo, talla M",
+   "price": "10,00 €",
+   "slug": "falda-vaquera-trussardi-marron-cargo-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/polo-fred-perry-rosa-talla-s-de-mujer-1.webp",
+    "catalog/polo-fred-perry-rosa-talla-s-de-mujer-2.webp"
+   ],
+   "meta": "TALLA S DE MUJER",
+   "name": "Polo Fred Perry rosa, talla S de mujer",
+   "price": "9,95 €",
+   "slug": "polo-fred-perry-rosa-talla-s-de-mujer",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/trench-punt-roma-fucsia-talla-44-1.webp",
+    "catalog/trench-punt-roma-fucsia-talla-44-2.webp"
+   ],
+   "meta": "TALLA 44",
+   "name": "Trench Punt Roma fucsia, talla 44",
+   "price": "19,95 €",
+   "slug": "trench-punt-roma-fucsia-talla-44",
+   "condition": ""
+  }
+ ],
+ "ninos": [
+  {
+   "imgs": [
+    "catalog/sudadera-nike-tech-fleece-hombre-negra-premium-1.webp",
+    "catalog/sudadera-nike-tech-fleece-hombre-negra-premium-2.webp"
+   ],
+   "meta": "TALLA XL NIÑO",
+   "name": "Sudadera Nike Tech Fleece Negra Premium",
+   "price": "14,95 €",
+   "slug": "sudadera-nike-tech-fleece-hombre-negra-premium",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "catalog/camiseta-levi-s-mujer-rosa-manga-larga-1.webp",
+    "catalog/camiseta-levi-s-mujer-rosa-manga-larga-2.webp"
+   ],
+   "meta": "TALLA 10-12Y · MUY BUENO",
+   "name": "Camiseta Levi's Rosa Manga Larga",
+   "price": "9,95 €",
+   "slug": "camiseta-levi-s-mujer-rosa-manga-larga",
+   "condition": "Muy buen estado"
+  }
+ ]
+}
