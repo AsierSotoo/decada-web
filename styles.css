@@ -596,11 +596,11 @@ html.lb-open{overflow:hidden}
 .rail-controls{margin-left:auto;display:flex;align-items:center;gap:22px}
 .rail-controls .under-link{margin:0}
 .rail-buttons{display:flex;gap:8px}
-.rail-btn{display:grid;place-items:center;width:48px;height:48px;padding:0;border:1px solid #4a4650;border-radius:50%;background:transparent;color:#f3f2f1;transition:border-color .2s,background .2s,color .2s,opacity .2s,transform .2s}
+.rail-btn{position:relative;display:grid;place-items:center;width:48px;height:48px;padding:0;border:1px solid #4a4650;border-radius:50%;background:transparent;color:#f3f2f1;transition:border-color .2s,background .2s,color .2s,opacity .2s,transform .2s;overflow:visible}
 .rail-btn svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .rail-btn:hover:not(:disabled){border-color:var(--pink);background:var(--pink);color:#111114}
 .rail-btn:active:not(:disabled){transform:scale(.94)}
-.rail-btn:disabled{opacity:.28;cursor:default}
+.rail-btn:disabled{opacity:.28;cursor:default}.auth-stamp{position:absolute;bottom:-7px;right:-16px;z-index:2;display:flex;align-items:center;gap:2px;padding:2px 5px;border:1px solid #8fb99a;border-radius:3px;font:800 7px 'Barlow Condensed',sans-serif;letter-spacing:.1em;color:#8fb99a;text-transform:uppercase;background:#111114;transform:rotate(-8deg) scale(.6);opacity:0;transition:opacity .2s ease,transform .3s cubic-bezier(.34,1.56,.64,1);pointer-events:none;white-space:nowrap}.auth-stamp svg{width:7px;height:7px;stroke:#8fb99a}.rail-btn:hover:not(:disabled) .auth-stamp{opacity:.95;transform:rotate(-8deg) scale(1)}.rail-btn:disabled .auth-stamp{display:none}
 .rail-static .rail-buttons,.rail-static .rail-progress{display:none}
 .type-rail{display:grid;grid-auto-flow:column;grid-auto-columns:calc((100% - 3 * 20px) / 4);gap:20px;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none;padding-bottom:4px}
 .type-rail::-webkit-scrollbar{display:none}
@@ -1200,3 +1200,4 @@ img[loading="lazy"]{background:linear-gradient(100deg,#1c1b21 30%,#2b2933 50%,#1
 .not-found-hero .crumb{text-align:center}
 .not-found-hero p:not(.eyebrow){max-width:480px;margin:0 auto}
 .not-found-actions{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin-top:30px}
+@media(max-width:700px){.auth-stamp{display:none}}
