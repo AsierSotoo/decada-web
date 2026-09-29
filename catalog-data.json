@@ -2,143 +2,197 @@
  "hombre": [
   {
    "imgs": [
-    "catalog/sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp-1.webp",
-    "catalog/sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp-2.webp"
-   ],
-   "meta": "TALLA M",
-   "name": "Sudadera con capucha y cremallera Puma gris, talla M",
-   "price": "21,95 €",
-   "slug": "sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp",
-   "condition": "",
-   "destacado": true
-  },
-  {
-   "imgs": [
-    "catalog/chaqueta-de-cuero-negra-estilo-motero-1.webp",
-    "catalog/chaqueta-de-cuero-negra-estilo-motero-2.webp"
-   ],
-   "meta": "TALLA L · EXCELLENT",
-   "name": "Chaqueta de cuero negra estilo motero",
-   "price": "19,95 €",
-   "slug": "chaqueta-de-cuero-negra-estilo-motero",
-   "condition": "Excelente estado"
-  },
-  {
-   "imgs": [
-    "catalog/jersey-gris-de-rayas-cuello-cremallera-talla-l-1.webp",
-    "catalog/jersey-gris-de-rayas-cuello-cremallera-talla-l-2.webp"
-   ],
-   "meta": "TALLA L",
-   "name": "Jersey gris de rayas cuello cremallera, talla L",
-   "price": "10,95 €",
-   "slug": "jersey-gris-de-rayas-cuello-cremallera-talla-l",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "catalog/camiseta-manga-larga-superdry-azul-y-gris-1.webp",
-    "catalog/camiseta-manga-larga-superdry-azul-y-gris-2.webp"
-   ],
-   "meta": "TALLA S · MUY BUENO",
-   "name": "Camiseta manga larga Superdry azul y gris",
-   "price": "9,95 €",
-   "slug": "camiseta-manga-larga-superdry-azul-y-gris",
-   "condition": "Muy buen estado"
-  },
-  {
-   "imgs": [
-    "catalog/camiseta-puma-lila-1.webp",
-    "catalog/camiseta-puma-lila-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790415695/inventario-pro/decada/anbrfpss6szdtaqznycg.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790604388/inventario-pro/decada/ez28qz6z1dviccwpmfyn.jpg"
    ],
    "meta": "TALLA L · MUY BUENO",
-   "name": "Camiseta Puma lila",
-   "price": "9,95 €",
-   "slug": "camiseta-puma-lila",
-   "condition": "Muy buen estado"
+   "name": "Bomber Champions azul talla L",
+   "price": "29,95 €",
+   "slug": "bomber-champions-azul-talla-l",
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/camiseta-nike-gris-logo-camuflaje-1.webp",
-    "catalog/camiseta-nike-gris-logo-camuflaje-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790414727/inventario-pro/decada/pa4widnwv4ieplm4glmr.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790414727/inventario-pro/decada/ucawjeohodmpi52d1ccb.jpg"
    ],
-   "meta": "TALLA L · EXCELLENT",
-   "name": "Camiseta Nike gris logo camuflaje",
-   "price": "11,95 €",
-   "slug": "camiseta-nike-gris-logo-camuflaje",
-   "condition": "Excelente estado"
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta de Beisbol Americana talla L",
+   "price": "24,95 €",
+   "slug": "chaqueta-de-beisbol-americana-talla-l",
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/camisa-la-martina-polo-pampas-azul-marino-talla-m-1.webp",
-    "catalog/camisa-la-martina-polo-pampas-azul-marino-talla-m-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790416592/inventario-pro/decada/gi7i2f48pt1vuasxbsr4.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790416601/inventario-pro/decada/hjanimhotz3tdu5kuxkc.jpg"
    ],
-   "meta": "TALLA M",
-   "name": "Camisa La Martina Polo Pampas azul marino, talla M",
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Cortavientos The North Face azul y negro talla Por confirmar",
+   "price": "34,95 €",
+   "slug": "cortavientos-the-north-face-azul-y-negro-talla-por-confirmar",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790414225/inventario-pro/decada/tg7ayb7ccowpqcw4mxyv.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790414272/inventario-pro/decada/nqotpsd5lgjtlbfeyglw.jpg"
+   ],
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Chaqueta Adidas Originals azul estampada talla s",
+   "price": "29,95 €",
+   "slug": "chaqueta-adidas-originals-azul-estampada-talla-s",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790418163/inventario-pro/decada/hs09ythzvjo1mtxgh9de.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790418172/inventario-pro/decada/rod2f4sraazztoeggufv.jpg"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Chaqueta deportiva azul marino USA talla XL",
+   "price": "28,95 €",
+   "slug": "chaqueta-deportiva-azul-marino-usa-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790417921/inventario-pro/decada/epsuiz9rbcib3zotc3xr.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790417932/inventario-pro/decada/iilmi9scfp6jgeggwutb.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Cortavientos Nike blanco gris y negro talla M",
+   "price": "26,95 €",
+   "slug": "cortavientos-nike-blanco-gris-y-negro-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790417679/inventario-pro/decada/lnkhpksaivjcwawpw7h3.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790417691/inventario-pro/decada/opa2iilafon5zvchfzxk.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Cortavientos Adidas azul marino franja amarilla talla L",
+   "price": "22,95 €",
+   "slug": "cortavientos-adidas-azul-marino-franja-amarilla-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790415950/inventario-pro/decada/widupscva5ahbls0mdou.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790415961/inventario-pro/decada/sszldimgmnhlmtxivtmc.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta deportiva Adidas gris con ribetes rojos talla L",
    "price": "19,95 €",
-   "slug": "camisa-la-martina-polo-pampas-azul-marino-talla-m",
+   "slug": "chaqueta-deportiva-adidas-gris-con-ribetes-rojos-talla-l",
    "condition": ""
   },
   {
    "imgs": [
-    "catalog/camiseta-adidas-originals-blanca-talla-s-1.webp",
-    "catalog/camiseta-adidas-originals-blanca-talla-s-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790324290/inventario-pro/decada/tz6whgo3doqwqiyocxaq.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790324290/inventario-pro/decada/zcbht8h1m5v4nezpvrrl.jpg"
    ],
-   "meta": "TALLA S",
-   "name": "Camiseta Adidas Originals blanca, talla S",
-   "price": "9,95 €",
-   "slug": "camiseta-adidas-originals-blanca-talla-s",
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Chaqueta Adidas azul marino con detalles rojos, talla M",
+   "price": "24,95 €",
+   "slug": "chaqueta-adidas-azul-marino-con-detalles-rojos-talla-m",
    "condition": ""
   },
   {
    "imgs": [
-    "catalog/camiseta-nike-just-do-it-negra-talla-m-1.webp",
-    "catalog/camiseta-nike-just-do-it-negra-talla-m-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790325521/inventario-pro/decada/z3vzkjzlbswkt06yl9fu.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790325521/inventario-pro/decada/hrv5ib5z3xzgvfdhijfd.jpg"
    ],
-   "meta": "TALLA M",
-   "name": "Camiseta Nike Just Do It negra, talla M",
-   "price": "12,95 €",
-   "slug": "camiseta-nike-just-do-it-negra-talla-m",
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Chaqueta Calvin Klein negra con capucha y cremallera, talla S",
+   "price": "19,95 €",
+   "slug": "chaqueta-calvin-klein-negra-con-capucha-y-cremallera-talla-s",
    "condition": ""
   },
   {
    "imgs": [
-    "catalog/camiseta-jordan-negra-talla-l-1.webp",
-    "catalog/camiseta-jordan-negra-talla-l-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790322570/inventario-pro/decada/w1xh4dlhqrbri3wme3di.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790322570/inventario-pro/decada/ilj5wabsvbbcuxppwt07.jpg"
    ],
-   "meta": "TALLA L",
-   "name": "Camiseta Jordan negra, talla L",
-   "price": "9,95 €",
-   "slug": "camiseta-jordan-negra-talla-l",
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Cortavientos Fila negro con mangas geométricas amarillas, talla S",
+   "price": "16,95 €",
+   "slug": "cortavientos-fila-negro-con-mangas-geometricas-amarillas-talla-s",
    "condition": ""
   },
   {
    "imgs": [
-    "catalog/camiseta-hugo-boss-azul-marino-1.webp",
-    "catalog/camiseta-hugo-boss-azul-marino-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266998/inventario-pro/decada/yexdhakrdseqxq1um5hy.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266998/inventario-pro/decada/gtdj3tb0e7vwp3dk3bxa.jpg"
    ],
-   "meta": "TALLA XL · EXCELLENT",
-   "name": "Camiseta Hugo Boss azul marino",
-   "price": "15,00 €",
-   "slug": "camiseta-hugo-boss-azul-marino",
-   "condition": "Excelente estado"
+   "meta": "TALLA XS · MUY BUENO",
+   "name": "Chaqueta Adidas retro gris con mangas negras, talla XS",
+   "price": "29,95 €",
+   "slug": "chaqueta-adidas-retro-gris-con-mangas-negras-talla-xs",
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/camiseta-vans-negra-1.webp",
-    "catalog/camiseta-vans-negra-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266847/inventario-pro/decada/lrazdgl40w8ltlthoje2.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266847/inventario-pro/decada/gz5iki2t2oduwogkglu8.jpg"
    ],
-   "meta": "TALLA S · EXCELLENT",
-   "name": "Camiseta Vans negra",
-   "price": "9,95 €",
-   "slug": "camiseta-vans-negra",
-   "condition": "Excelente estado"
+   "meta": "TALLA L CREO · MUY BUENO",
+   "name": "Chaqueta bomber negra satinada con parche bordado estilo college",
+   "price": "19,95 €",
+   "slug": "chaqueta-bomber-negra-satinada-con-parche-bordado-estilo-college",
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/vaquero-tommy-hilfiger-azul-talla-31-1.webp",
-    "catalog/vaquero-tommy-hilfiger-azul-talla-31-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266918/inventario-pro/decada/jssdzgcu73zujduhyudp.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266918/inventario-pro/decada/bnvjdw4idyy7699ta05t.jpg"
    ],
-   "meta": "TALLA 31",
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Cortavientos Calvin Klein beige con capucha, talla L",
+   "price": "19,95 €",
+   "slug": "cortavientos-calvin-klein-beige-con-capucha-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266928/inventario-pro/decada/yszsmam9qtdfnl1hnjng.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266928/inventario-pro/decada/jax5ywfffvx8sr9br8zq.jpg"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Cortavientos Tommy Hilfiger marrón y caqui con cremallera, talla XL",
+   "price": "24,95 €",
+   "slug": "cortavientos-tommy-hilfiger-marron-y-caqui-con-cremallera-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266908/inventario-pro/decada/p1x9enrwwi5b1w4ikmzg.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266908/inventario-pro/decada/jeunokddb0pbs6tgfc4w.jpg"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Chaqueta St. Joseph Council granate estilo universitario, talla XL",
+   "price": "22,95 €",
+   "slug": "chaqueta-st-joseph-council-granate-estilo-universitario-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790322592/inventario-pro/decada/lgadqky3vsxhhjxedwj5.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790322592/inventario-pro/decada/fi7meqdvw2lp7h3klc2d.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta Fila blanca con franjas verdes y moradas, talla L",
+   "price": "24,95 €",
+   "slug": "chaqueta-fila-blanca-con-franjas-verdes-y-moradas-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427418/inventario-pro/decada/dm3wlnu5bmym0z27rviu.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427418/inventario-pro/decada/vkcko8msfamz1pdrotga.jpg"
+   ],
+   "meta": "TALLA 31/30 · MUY BUENO",
    "name": "Vaquero Tommy Hilfiger azul, talla 31",
    "price": "16,95 €",
    "slug": "vaquero-tommy-hilfiger-azul-talla-31",
@@ -146,32 +200,43 @@
   },
   {
    "imgs": [
-    "catalog/vaquero-rustler-negro-1.webp",
-    "catalog/vaquero-rustler-negro-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788858945/inventario-pro/decada/cgg6v9oxgzyxj8s5odtz.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788859302/inventario-pro/decada/tv4y8dbybwpko1ai7ka6.jpg"
+   ],
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Camiseta manga larga Superdry azul y gris",
+   "price": "9,95 €",
+   "slug": "camiseta-manga-larga-superdry-azul-y-gris",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426923/inventario-pro/decada/g9tqrtxcfgughf1vluz5.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426923/inventario-pro/decada/ipjp2mcpfjp6ceimdomt.jpg"
    ],
    "meta": "TALLA L · MUY BUENO",
    "name": "Vaquero Rustler negro",
    "price": "14,95 €",
    "slug": "vaquero-rustler-negro",
-   "condition": "Muy buen estado"
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/vaquero-ruta66-hombre-corte-recto-tiro-alto-azul-1.webp",
-    "catalog/vaquero-ruta66-hombre-corte-recto-tiro-alto-azul-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789031741/inventario-pro/decada/lqh86nmhqctrjny2ctjp.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789031741/inventario-pro/decada/rk46ibkox2otevfnd8ya.jpg"
    ],
    "meta": "TALLA L · MUY BUENO",
-   "name": "Vaquero Ruta66 Hombre Corte Recto Tiro Alto Azul",
-   "price": "20,00 €",
-   "slug": "vaquero-ruta66-hombre-corte-recto-tiro-alto-azul",
-   "condition": "Muy buen estado"
+   "name": "Chaleco Nike Air Negro Sin Mangas",
+   "price": "19,95 €",
+   "slug": "chaleco-nike-air-negro-sin-mangas",
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/pantalon-cargo-massimo-dutti-beige-talla-l-1.webp",
-    "catalog/pantalon-cargo-massimo-dutti-beige-talla-l-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789728777/inventario-pro/decada/uczp7xrxavruycshyxwt.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789728802/inventario-pro/decada/ytzqstbrcbtp0x6dbn08.jpg"
    ],
-   "meta": "TALLA L",
+   "meta": "TALLA L · MUY BUENO",
    "name": "Pantalón cargo Massimo Dutti beige, talla L",
    "price": "24,95 €",
    "slug": "pantalon-cargo-massimo-dutti-beige-talla-l",
@@ -179,21 +244,10 @@
   },
   {
    "imgs": [
-    "catalog/pantalon-vaquero-verde-caqui-ancho-talla-38-1.webp",
-    "catalog/pantalon-vaquero-verde-caqui-ancho-talla-38-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790074739/inventario-pro/decada/djqbhhxnx94klv3dqylj.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790074739/inventario-pro/decada/auxulvdxz1tgxgixbvh8.jpg"
    ],
-   "meta": "TALLA 38",
-   "name": "Pantalón vaquero verde caqui ancho, talla 38",
-   "price": "19,95 €",
-   "slug": "pantalon-vaquero-verde-caqui-ancho-talla-38",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "catalog/pantalon-de-chandal-adidas-negro-talla-m-1.webp",
-    "catalog/pantalon-de-chandal-adidas-negro-talla-m-2.webp"
-   ],
-   "meta": "TALLA M",
+   "meta": "TALLA M · MUY BUENO",
    "name": "Pantalón de chándal Adidas negro, talla M",
    "price": "14,95 €",
    "slug": "pantalon-de-chandal-adidas-negro-talla-m",
@@ -201,21 +255,10 @@
   },
   {
    "imgs": [
-    "catalog/pantalon-de-chandal-fila-negro-talla-m-1.webp",
-    "catalog/pantalon-de-chandal-fila-negro-talla-m-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426471/inventario-pro/decada/juwktyyjm7ryaktypxye.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426471/inventario-pro/decada/knbfme4hzsb0rnrxico3.jpg"
    ],
-   "meta": "TALLA M",
-   "name": "Pantalón de chándal Fila negro, talla M",
-   "price": "19,95 €",
-   "slug": "pantalon-de-chandal-fila-negro-talla-m",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "catalog/pantalon-de-chandal-adidas-azul-marino-talla-xl-1.webp",
-    "catalog/pantalon-de-chandal-adidas-azul-marino-talla-xl-2.webp"
-   ],
-   "meta": "TALLA XL",
+   "meta": "TALLA XL · MUY BUENO",
    "name": "Pantalón de chándal Adidas azul marino, talla XL",
    "price": "24,95 €",
    "slug": "pantalon-de-chandal-adidas-azul-marino-talla-xl",
@@ -223,54 +266,325 @@
   },
   {
    "imgs": [
-    "catalog/track-pant-adidas-nailon-gris-1.webp",
-    "catalog/track-pant-adidas-nailon-gris-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789487620/inventario-pro/decada/gzmvbj6pmyebkqqxewrr.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788346270/inventario-pro/decada/lcjlolxwb8x3pbudnklm.jpg"
    ],
    "meta": "TALLA L · EXCELLENT",
    "name": "Track pant Adidas nailon gris",
    "price": "24,95 €",
    "slug": "track-pant-adidas-nailon-gris",
-   "condition": "Excelente estado"
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/track-pant-adidas-azul-marino-1.webp",
-    "catalog/track-pant-adidas-azul-marino-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790075025/inventario-pro/decada/qgubocow72sxufznc4vl.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790075138/inventario-pro/decada/yrmxjhwxd3aluleu6ua2.jpg"
    ],
    "meta": "TALLA L · MUY BUENO",
-   "name": "Track pant Adidas azul marino",
+   "name": "Track pant Adidas azul marino, talla L",
    "price": "24,95 €",
-   "slug": "track-pant-adidas-azul-marino",
-   "condition": "Muy buen estado"
+   "slug": "track-pant-adidas-azul-marino-talla-l",
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/chaleco-nike-air-negro-sin-mangas-1.webp",
-    "catalog/chaleco-nike-air-negro-sin-mangas-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790075431/inventario-pro/decada/iooy0aljpfxcznurvinz.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790075431/inventario-pro/decada/a6xy7jjjm9plfsegrbuf.jpg"
+   ],
+   "meta": "TALLA W32 · MUY BUENO",
+   "name": "Vaquero Pierre Cardin ancho beige, talla M",
+   "price": "16,95 €",
+   "slug": "vaquero-pierre-cardin-ancho-beige-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427593/inventario-pro/decada/xs6ik0cnylpvdquoe5kn.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427594/inventario-pro/decada/nunnsapii9mxxqp2esf5.jpg"
    ],
    "meta": "TALLA L · MUY BUENO",
-   "name": "Chaleco Nike Air Negro Sin Mangas",
-   "price": "19,95 €",
-   "slug": "chaleco-nike-air-negro-sin-mangas",
-   "condition": "Muy buen estado"
+   "name": "Vaquero Lee azul claro, talla M",
+   "price": "18,95 €",
+   "slug": "vaquero-lee-azul-claro-talla-m",
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/sudadera-champion-negra-1.webp",
-    "catalog/sudadera-champion-negra-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426788/inventario-pro/decada/xqimgmzph8o6obebmk9j.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426788/inventario-pro/decada/wvjvxfj5poknllnnxujs.jpg"
+   ],
+   "meta": "TALLA W36 · MUY BUENO",
+   "name": "Vaquero Hugo Boss ancho azul, talla M",
+   "price": "19,95 €",
+   "slug": "vaquero-hugo-boss-ancho-azul-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788861362/inventario-pro/decada/c5vzidaouizyrretp5zo.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788861362/inventario-pro/decada/jqtxupifnpmqfb82mrki.jpg"
+   ],
+   "meta": "TALLA L · EXCELLENT",
+   "name": "Camiseta Nike gris logo camuflaje",
+   "price": "11,95 €",
+   "slug": "camiseta-nike-gris-logo-camuflaje",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790075937/inventario-pro/decada/i9vblntamcvdsjoqgmew.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790075743/inventario-pro/decada/daqycamgl3tfzpnle6cq.jpg"
+   ],
+   "meta": "TALLA W33 · BUENO",
+   "name": "Levi's 514 azul oscuro",
+   "price": "19,95 €",
+   "slug": "levi-s-514-azul-oscuro",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789035434/inventario-pro/decada/bp3thefucmbrdp2jqky6.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789035434/inventario-pro/decada/gynsdepi3dhr7nnrjz0x.jpg"
    ],
    "meta": "TALLA S · MUY BUENO",
    "name": "Sudadera Champion negra",
    "price": "14,95 €",
    "slug": "sudadera-champion-negra",
-   "condition": "Muy buen estado"
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/sudadera-puma-negra-talla-m-1.webp",
-    "catalog/sudadera-puma-negra-talla-m-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790076106/inventario-pro/decada/j5qbgqkxfwuvvors1u5e.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790076057/inventario-pro/decada/cjp2f7eozo4gaubuvss1.jpg"
    ],
-   "meta": "TALLA M",
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Vaquero Wrangler azul marino, talla L",
+   "price": "19,95 €",
+   "slug": "vaquero-wrangler-azul-marino-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790076524/inventario-pro/decada/u1z4v8g0lqfiihxknspy.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790076524/inventario-pro/decada/b1ybvl3ezet0s3bfc4we.jpg"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Pantalón chino Pedro del Hierro beige, talla XL",
+   "price": "19,95 €",
+   "slug": "pantalon-chino-pedro-del-hierro-beige-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790080679/inventario-pro/decada/e4xlvvrdd7sgtwrmrsgq.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790080661/inventario-pro/decada/dbbspt68s9irvpvomexj.jpg"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Pantalón corto Nike azul marino y rojo, talla XL",
+   "price": "12,95 €",
+   "slug": "pantalon-corto-nike-azul-marino-y-rojo-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789037522/inventario-pro/decada/jncdknpnlqz72agsom8y.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789037522/inventario-pro/decada/tx753jqnyqgijzlhotfo.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Camisa La Martina Polo Pampas azul marino, talla M",
+   "price": "19,95 €",
+   "slug": "camisa-la-martina-polo-pampas-azul-marino-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427873/inventario-pro/decada/rlho4yfdepgksdeu5wxn.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427886/inventario-pro/decada/jg7g4setrantnvejgvit.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Sudadera con capucha y cremallera Puma gris, talla M",
+   "price": "21,95 €",
+   "slug": "sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790080839/inventario-pro/decada/zpqfa6lamvezo4uszsmu.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790080781/inventario-pro/decada/lilyoji4rxi6dmgrrtvb.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Vaquero Mustang azul, talla M",
+   "price": "14,95 €",
+   "slug": "vaquero-mustang-azul-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789037113/inventario-pro/decada/xukjvmsms8xowdwla6cr.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789037113/inventario-pro/decada/otqeydruihse1arbklbl.jpg"
+   ],
+   "meta": "TALLA S · EXCELLENT",
+   "name": "Camiseta Adidas Originals blanca, talla S",
+   "price": "9,95 €",
+   "slug": "camiseta-adidas-originals-blanca-talla-s",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158032/inventario-pro/decada/hpb8bte3wygtwhc36uob.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158032/inventario-pro/decada/nii0qbsrgeqoidv0mxk3.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Levi's ancho de pana beige, W32 L34",
+   "price": "14,95 €",
+   "slug": "levi-s-ancho-de-pana-beige-w32-l34",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427963/inventario-pro/decada/g5obhjpt25btp4brkkqe.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427973/inventario-pro/decada/k3jisohbdfivoltiuufb.jpg"
+   ],
+   "meta": "TALLA L · EXCELLENT",
+   "name": "Chaqueta de cuero negra estilo motero",
+   "price": "19,95 €",
+   "slug": "chaqueta-de-cuero-negra-estilo-motero",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788861577/inventario-pro/decada/kb6goeota8v3h4rsph5r.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788861577/inventario-pro/decada/gs3oll92b12oorba03uy.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Camiseta Nike Just Do It negra, talla M",
+   "price": "12,95 €",
+   "slug": "camiseta-nike-just-do-it-negra-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158227/inventario-pro/decada/avlxayyntiibgwkj3qmw.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158272/inventario-pro/decada/axifkzurk9rd3kgssyct.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Pantalón corto Adidas negro, talla M",
+   "price": "9,95 €",
+   "slug": "pantalon-corto-adidas-negro-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158456/inventario-pro/decada/szondo9x4vlpfgyvrewz.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158416/inventario-pro/decada/hgeplvuj4gllwuqbxyn6.jpg"
+   ],
+   "meta": "TALLA W33 · EXCELLENT",
+   "name": "Levi's 511 azul oscuro",
+   "price": "16,95 €",
+   "slug": "levi-s-511-azul-oscuro",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789038233/inventario-pro/decada/mhkrfvhpalnnzxdvn0kr.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789038233/inventario-pro/decada/dsbigxga5m6z4vfylpeh.jpg"
+   ],
+   "meta": "TALLA XL · EXCELLENT",
+   "name": "Camiseta Hugo Boss azul marino",
+   "price": "15,00 €",
+   "slug": "camiseta-hugo-boss-azul-marino",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158745/inventario-pro/decada/hhg9xbzmcyhmrwxoryra.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158796/inventario-pro/decada/kgairhdz1hzpbtxlhuyn.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Pantalón chino Dockers beige, talla M",
+   "price": "22,95 €",
+   "slug": "pantalon-chino-dockers-beige-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790159010/inventario-pro/decada/lpqpunrbvvqp2x5kcunc.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790158981/inventario-pro/decada/uxk3fwgfeepxmsajtgpl.jpg"
+   ],
+   "meta": "TALLA W32 · MUY BUENO",
+   "name": "Pantalón chino Ralph Lauren marrón, talla M",
+   "price": "19,95 €",
+   "slug": "pantalon-chino-ralph-lauren-marron-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787147793/inventario-pro/decada/eddbu1ykc1chktmscmed.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787147838/inventario-pro/decada/f0jdtr5pkvfbdp2pnvzj.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787147838/inventario-pro/decada/ltlekcxm5vlj4ikx2fac.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787147838/inventario-pro/decada/medpepfsgaabwotv9o7q.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787147838/inventario-pro/decada/h5tkabgltllbzmznedxe.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787147838/inventario-pro/decada/cjzlgh3hcnnvpxc1mbeh.jpg"
+   ],
+   "meta": "TALLA W32 · MUY BUENO",
+   "name": "Pantalón chino Tommy Hilfiger azul marino, talla M",
+   "price": "19,95 €",
+   "slug": "pantalon-chino-tommy-hilfiger-azul-marino-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785338263/inventario-pro/decada/hs8t0us3zx64klsuqxpo.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339568/inventario-pro/decada/bhjasyjkjbwqkdjoqezi.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339568/inventario-pro/decada/mm9el7pxaohthmuwxel9.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339568/inventario-pro/decada/wvs5ewyackgttk1ezzaa.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339568/inventario-pro/decada/dbmfb2z1gkhfejpxcjdy.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339568/inventario-pro/decada/hengfoupcup679sdpmmm.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339571/inventario-pro/decada/wfrpsimuvb0vhw9ulq0t.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339571/inventario-pro/decada/sl5mqavcexce4vop4aws.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339571/inventario-pro/decada/tzkbhkp9bhjcdb5qirxe.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339571/inventario-pro/decada/kxm7zklhvpjhlywegful.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339571/inventario-pro/decada/mcopxvhqfgkxmx11nhh2.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339574/inventario-pro/decada/codrqmj2campykmqkpcs.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339574/inventario-pro/decada/vw3gha1mtey3gjmtd11o.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339574/inventario-pro/decada/bkahnwo7xuh43q00bqco.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339574/inventario-pro/decada/d36td0injxd443sqjasu.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339574/inventario-pro/decada/fm3cpnshxk2gilxxaii9.jpg"
+   ],
+   "meta": "TALLA M · EXCELLENT",
+   "name": "Pantalón Dockers negro, talla M",
+   "price": "14,92 €",
+   "slug": "pantalon-dockers-negro-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427229/inventario-pro/decada/p6fowssawyqmfmf3wolo.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427228/inventario-pro/decada/sggfubeturbk0mbfpo0b.jpg"
+   ],
+   "meta": "TALLA 30-32 · MUY BUENO",
+   "name": "Vaquero Tommy Jeans azul, talla 30",
+   "price": "19,95 €",
+   "slug": "vaquero-tommy-jeans-azul-talla-30",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789122018/inventario-pro/decada/ushfpuesibfu8jf2s9xq.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789122018/inventario-pro/decada/pwdsaskzskwb3imvcc5b.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Jersey gris de rayas cuello cremallera, talla L",
+   "price": "10,95 €",
+   "slug": "jersey-gris-de-rayas-cuello-cremallera-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789120068/inventario-pro/decada/deqi4behm57xu9ifgirg.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789120068/inventario-pro/decada/teglhbbswziuarco2o55.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
    "name": "Sudadera Puma negra, talla M",
    "price": "9,95 €",
    "slug": "sudadera-puma-negra-talla-m",
@@ -278,45 +592,77 @@
   },
   {
    "imgs": [
-    "catalog/sudadera-champion-azul-marino-talla-m-1.webp",
-    "catalog/sudadera-champion-azul-marino-talla-m-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789120391/inventario-pro/decada/pip0znqt7gd6anslf6et.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789120391/inventario-pro/decada/teuzcez0lrbckddntgct.jpg"
    ],
-   "meta": "TALLA M",
+   "meta": "TALLA M · MUY BUENO",
    "name": "Sudadera Champion azul marino, talla M",
    "price": "9,95 €",
    "slug": "sudadera-champion-azul-marino-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785940579/inventario-pro/decada/ibqadmwlhnwyxtbrfv4t.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Vaquero Calvin Klein negro, talla L",
+   "price": "16,95 €",
+   "slug": "vaquero-calvin-klein-negro-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785263224/inventario-pro/decada/sj1pngrqpqupumjhell3.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339458/inventario-pro/decada/tredxnzsubzf9hgm9fel.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339458/inventario-pro/decada/uls1wgt6uzzcbuagpzv6.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339458/inventario-pro/decada/ajgrndqxs8g76cyaz5zs.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339458/inventario-pro/decada/hg1ocqckufyixa7gmlri.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339458/inventario-pro/decada/eky9bxyjl9thlnhra6y0.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339458/inventario-pro/decada/hqeqclpeuunudjueg1x6.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339462/inventario-pro/decada/ppgkqcdusczphjdoxejr.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339462/inventario-pro/decada/hx9opbn9cmong0slvomq.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339462/inventario-pro/decada/lcdogqrexwbiqllipyhv.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339462/inventario-pro/decada/lkenqwbpornzi3smvmf0.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339462/inventario-pro/decada/l8pkvv9jp8oq4fa02gco.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785339462/inventario-pro/decada/ppjcr9ymihffwsnpfqtb.jpg"
+   ],
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Pantalón Massimo Dutti gris, talla 38",
+   "price": "8,00 €",
+   "slug": "pantalon-massimo-dutti-gris-talla-38",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789487368/inventario-pro/decada/m5l5ogx0ggz3tf5ztja9.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789487368/inventario-pro/decada/koxzvtacfjrgg64gxn0f.jpg"
+   ],
+   "meta": "TALLA S · EXCELLENT",
+   "name": "Camiseta Vans negra",
+   "price": "9,95 €",
+   "slug": "camiseta-vans-negra",
    "condition": ""
   }
  ],
  "mujer": [
   {
    "imgs": [
-    "catalog/camiseta-adidas-negra-estampado-fragmentado-talla-m-1.webp",
-    "catalog/camiseta-adidas-negra-estampado-fragmentado-talla-m-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266809/inventario-pro/decada/zg4glxhlhdyj5o3kvmrk.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790266809/inventario-pro/decada/kszb3p108qchrt7qyt6m.jpg"
    ],
-   "meta": "TALLA M",
-   "name": "Camiseta Adidas negra estampado fragmentado, talla M",
-   "price": "9,95 €",
-   "slug": "camiseta-adidas-negra-estampado-fragmentado-talla-m",
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Chaqueta Adidas Originals rosa y negra con capucha, talla S",
+   "price": "24,95 €",
+   "slug": "chaqueta-adidas-originals-rosa-y-negra-con-capucha-talla-s",
    "condition": ""
   },
   {
    "imgs": [
-    "catalog/camiseta-versace-celeste-talla-l-1.webp",
-    "catalog/camiseta-versace-celeste-talla-l-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488182/inventario-pro/decada/xc6lir6kurg8cwwsaqpe.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488233/inventario-pro/decada/s7kvt99d2vg3u5uzfw8h.jpg"
    ],
-   "meta": "TALLA L",
-   "name": "Camiseta Versace celeste, talla L",
-   "price": "15,00 €",
-   "slug": "camiseta-versace-celeste-talla-l",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "catalog/vaquero-vintage-dressing-onyx-jeans-azul-talla-27-1.webp",
-    "catalog/vaquero-vintage-dressing-onyx-jeans-azul-talla-27-2.webp"
-   ],
-   "meta": "TALLA 27",
+   "meta": "TALLA 27 · MUY BUENO",
    "name": "Vaquero Vintage Dressing Onyx Jeans azul, talla 27",
    "price": "19,95 €",
    "slug": "vaquero-vintage-dressing-onyx-jeans-azul-talla-27",
@@ -324,21 +670,21 @@
   },
   {
    "imgs": [
-    "catalog/vaquero-levi-s-560-hombre-corte-recto-lavado-medio-1.webp",
-    "catalog/vaquero-levi-s-560-hombre-corte-recto-lavado-medio-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488966/inventario-pro/decada/qvg6ih9bmezjoo5qeasn.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488949/inventario-pro/decada/ubkypworoxgaconhszld.jpg"
    ],
    "meta": "TALLA W38 L30 · MUY BUENO",
    "name": "Vaquero Levi's 560 Hombre Corte Recto Lavado Medio",
    "price": "19,95 €",
    "slug": "vaquero-levi-s-560-hombre-corte-recto-lavado-medio",
-   "condition": "Muy buen estado"
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/vaquero-hamilton-azul-talla-27-1.webp",
-    "catalog/vaquero-hamilton-azul-talla-27-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789489617/inventario-pro/decada/ac3tlz5s5azy3cblpgth.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789489606/inventario-pro/decada/dr8mbwmjetmal3huikph.jpg"
    ],
-   "meta": "TALLA 27",
+   "meta": "TALLA 27 · MUY BUENO",
    "name": "Vaquero Hamilton azul, talla 27",
    "price": "19,95 €",
    "slug": "vaquero-hamilton-azul-talla-27",
@@ -346,20 +692,78 @@
   },
   {
    "imgs": [
-    "catalog/vaquero-estampado-geometrico-cintura-elastica-1.webp",
-    "catalog/vaquero-estampado-geometrico-cintura-elastica-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427486/inventario-pro/decada/psnrh9p1n1vfus6f4byf.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427486/inventario-pro/decada/szztvybnfjfynhzqemtk.jpg"
    ],
    "meta": "TALLA M · MUY BUENO",
    "name": "Vaquero Estampado Geométrico Cintura Elástica",
    "price": "12,95 €",
    "slug": "vaquero-estampado-geometrico-cintura-elastica",
-   "condition": "Muy buen estado"
+   "condition": ""
   },
   {
    "imgs": [
-    "catalog/vaquero-guess-brittney-skinny-verde-talla-28-1.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790157185/inventario-pro/decada/czg0bp1zbzna8ytonkdp.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790157212/inventario-pro/decada/bv0knghir8hykna9pch6.jpg"
    ],
-   "meta": "TALLA 28",
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Vaquero Ruta66 Mujer Corte Recto Tiro Alto Azul",
+   "price": "20,00 €",
+   "slug": "vaquero-ruta66-mujer-corte-recto-tiro-alto-azul",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790074233/inventario-pro/decada/acwxpqywdx0bxirjzdgn.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790074202/inventario-pro/decada/ylioyadnw0i9qmtmwczc.jpg"
+   ],
+   "meta": "TALLA 38 · MUY BUENO",
+   "name": "Pantalón vaquero verde caqui ancho, talla 38",
+   "price": "19,95 €",
+   "slug": "pantalon-vaquero-verde-caqui-ancho-talla-38",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789033244/inventario-pro/decada/nsvmxhjmcq22t8vnm47s.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789033244/inventario-pro/decada/jzp58arz5pfwm5xipwvq.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Camiseta Adidas negra estampado fragmentado, talla M",
+   "price": "9,95 €",
+   "slug": "camiseta-adidas-negra-estampado-fragmentado-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790074935/inventario-pro/decada/prueg1pavbjmqovpny4m.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790074935/inventario-pro/decada/dksqnbxu4jehl9mzolze.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Pantalón de chándal Fila negro, talla M",
+   "price": "19,95 €",
+   "slug": "pantalon-de-chandal-fila-negro-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787148207/inventario-pro/decada/b3ygohiol1ojkzfq94cl.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787148242/inventario-pro/decada/rmgmtahlzmqqyiwduntn.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787148242/inventario-pro/decada/qfcpzdzxfxkzojxnw53q.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787148242/inventario-pro/decada/ftpffapwpewwuhnhkegg.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787148242/inventario-pro/decada/zkt6jvxlb3r9dctlo2lx.jpg"
+   ],
+   "meta": "TALLA 46 · MUY BUENO",
+   "name": "Trench Punt Roma fucsia, talla 44",
+   "price": "19,95 €",
+   "slug": "trench-punt-roma-fucsia-talla-44",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1787148376/inventario-pro/decada/qhknoiwc42snsvvfbkns.jpg"
+   ],
+   "meta": "TALLA W28 · MUY BUENO",
    "name": "Vaquero Guess Brittney Skinny verde, talla 28",
    "price": "19,95 €",
    "slug": "vaquero-guess-brittney-skinny-verde-talla-28",
@@ -367,20 +771,15 @@
   },
   {
    "imgs": [
-    "catalog/falda-vaquera-trussardi-marron-cargo-talla-m-1.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785265169/inventario-pro/decada/iomvxkvzlzop4z3stocx.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785321880/inventario-pro/decada/hx41xrs2outn3eawa9ov.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785321880/inventario-pro/decada/ppmsglhkxb96ydrrkzlf.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785321880/inventario-pro/decada/njjeelhrkpxzesxta59z.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785321880/inventario-pro/decada/ah02j4zxl65a0qxxk0tl.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785321880/inventario-pro/decada/k2x9d4awsaihhv49zg0n.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785321880/inventario-pro/decada/brm1hl92gkwhu5cgwosw.jpg"
    ],
-   "meta": "TALLA M",
-   "name": "Falda vaquera Trussardi marrón cargo, talla M",
-   "price": "10,00 €",
-   "slug": "falda-vaquera-trussardi-marron-cargo-talla-m",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "catalog/polo-fred-perry-rosa-talla-s-de-mujer-1.webp",
-    "catalog/polo-fred-perry-rosa-talla-s-de-mujer-2.webp"
-   ],
-   "meta": "TALLA S DE MUJER",
+   "meta": "TALLA S · MUY BUENO",
    "name": "Polo Fred Perry rosa, talla S de mujer",
    "price": "9,95 €",
    "slug": "polo-fred-perry-rosa-talla-s-de-mujer",
@@ -388,38 +787,70 @@
   },
   {
    "imgs": [
-    "catalog/trench-punt-roma-fucsia-talla-44-1.webp",
-    "catalog/trench-punt-roma-fucsia-talla-44-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1786008307/inventario-pro/decada/lzfgytxbp2qppleav4aw.jpg"
    ],
-   "meta": "TALLA 44",
-   "name": "Trench Punt Roma fucsia, talla 44",
-   "price": "19,95 €",
-   "slug": "trench-punt-roma-fucsia-talla-44",
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Falda vaquera Trussardi marrón cargo, talla M",
+   "price": "10,00 €",
+   "slug": "falda-vaquera-trussardi-marron-cargo-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789038753/inventario-pro/decada/vw5myngtdeo0g7g7oyuo.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789038753/inventario-pro/decada/hqfcerrgocc8zrak8d32.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Camiseta Versace celeste, talla L",
+   "price": "15,00 €",
+   "slug": "camiseta-versace-celeste-talla-l",
    "condition": ""
   }
  ],
  "ninos": [
   {
    "imgs": [
-    "catalog/sudadera-nike-tech-fleece-hombre-negra-premium-1.webp",
-    "catalog/sudadera-nike-tech-fleece-hombre-negra-premium-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790417088/inventario-pro/decada/nbkvd3g9oixvtndogoal.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790417099/inventario-pro/decada/fopabr1ep829dkhnmw9w.jpg"
    ],
-   "meta": "TALLA XL NIÑO",
-   "name": "Sudadera Nike Tech Fleece Negra Premium",
-   "price": "14,95 €",
-   "slug": "sudadera-nike-tech-fleece-hombre-negra-premium",
+   "meta": "TALLA 8-10y · MUY BUENO",
+   "name": "Chaqueta Nike negra franjas turquesa infantil talla 8-10y",
+   "price": "24,95 €",
+   "slug": "chaqueta-nike-negra-franjas-turquesa-infantil-talla-8-10y",
    "condition": ""
   },
   {
    "imgs": [
-    "catalog/camiseta-levi-s-mujer-rosa-manga-larga-1.webp",
-    "catalog/camiseta-levi-s-mujer-rosa-manga-larga-2.webp"
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788953460/inventario-pro/decada/tzgn6v5ptt3vfscim1t4.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788953460/inventario-pro/decada/tdnwqt0p7uocy3hznt9i.jpg"
    ],
-   "meta": "TALLA 10-12Y · MUY BUENO",
-   "name": "Camiseta Levi's Rosa Manga Larga",
+   "meta": "TALLA 10-12y · MUY BUENO",
+   "name": "Camiseta Levi's Mujer Rosa Manga Larga",
    "price": "9,95 €",
    "slug": "camiseta-levi-s-mujer-rosa-manga-larga",
-   "condition": "Muy buen estado"
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788428080/inventario-pro/decada/ugx7jn3ejrs4cqooxgsy.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788428086/inventario-pro/decada/g6k1oxqa9flsa0kdwotq.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Chaqueta Adidas Hombre Gris con Capucha 3 Bandas",
+   "price": "19,95 €",
+   "slug": "chaqueta-adidas-hombre-gris-con-capucha-3-bandas",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427826/inventario-pro/decada/omlxgachnsziyve2gkbg.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427826/inventario-pro/decada/icse6uxjfrapiz1bdwf6.jpg"
+   ],
+   "meta": "TALLA XL NIÑO",
+   "name": "Sudadera Nike Tech Fleece Hombre Negra Premium",
+   "price": "14,95 €",
+   "slug": "sudadera-nike-tech-fleece-hombre-negra-premium",
+   "condition": ""
   }
  ]
 }

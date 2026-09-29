@@ -1,0 +1,56 @@
+name: Sincronizar inventario
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Cada 30 minutos. GitHub puede retrasar el disparo si hay mucha carga.
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-inventory
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install --disable-pip-version-check --quiet pillow
+
+      - name: Sincronizar catalog-data.json y product-measures.json desde Inventario Pro
+        run: python3 sync_inventory.py
+
+      - name: Limpiar salida generada anteriormente
+        run: |
+          rm -rf catalogo productos carrito como-comprar contacto guia-tallas marca \
+            index.html 404.html robots.txt sitemap.xml \
+            assets/_r assets/search-index.json assets/search-index.js
+
+      - name: Regenerar el sitio (build.py)
+        run: python3 build.py
+
+      - name: Comprobaciones de calidad (qa_static.py)
+        run: python3 qa_static.py
+
+      - name: Commitear y publicar si hay cambios
+        run: |
+          git config user.name "decada-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git status --porcelain | grep -q .; then
+            git add -A
+            git commit -m "Sincronizar inventario automáticamente [skip ci]"
+            git push
+          else
+            echo "Sin cambios en el inventario."
+          fi

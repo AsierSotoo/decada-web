@@ -1,191 +1,365 @@
 {
-  "sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp": {
-    "PECHO": "50 cm",
-    "CINTURA": "43 cm",
-    "LARGO": "63 cm"
-  },
-  "chaqueta-de-cuero-negra-estilo-motero": {},
-  "jersey-gris-de-rayas-cuello-cremallera-talla-l": {
-    "PECHO": "50 cm",
-    "CINTURA": "52 cm",
-    "LARGO": "68 cm"
-  },
-  "camiseta-manga-larga-superdry-azul-y-gris": {
-    "PECHO": "45 cm",
-    "HOMBROS": "40 cm",
-    "CINTURA": "46 cm",
-    "LARGO": "61 cm"
-  },
-  "camiseta-puma-lila": {
-    "PECHO": "48 cm",
-    "HOMBROS": "47 cm",
-    "CINTURA": "52 cm",
-    "LARGO": "61 cm"
-  },
-  "camiseta-nike-gris-logo-camuflaje": {
-    "PECHO": "52 cm",
-    "HOMBROS": "42 cm",
-    "CINTURA": "50 cm",
-    "LARGO": "70 cm"
-  },
-  "camisa-la-martina-polo-pampas-azul-marino-talla-m": {
-    "PECHO": "47 cm",
-    "CINTURA": "47 cm",
-    "LARGO": "60 cm"
-  },
-  "camiseta-adidas-originals-blanca-talla-s": {
-    "PECHO": "45 cm",
-    "HOMBROS": "40 cm",
-    "CINTURA": "49 cm",
-    "LARGO": "5 cm"
-  },
-  "camiseta-nike-just-do-it-negra-talla-m": {
-    "CINTURA": "55 cm",
-    "LARGO": "62 cm"
-  },
-  "camiseta-jordan-negra-talla-l": {
-    "PECHO": "44 cm",
-    "CINTURA": "45 cm",
-    "LARGO": "58 cm"
-  },
-  "camiseta-hugo-boss-azul-marino": {
-    "CINTURA": "53 cm",
-    "LARGO": "67 cm"
-  },
-  "camiseta-vans-negra": {
-    "PECHO": "44 cm",
-    "HOMBROS": "40 cm",
-    "CINTURA": "43 cm",
-    "LARGO": "62 cm"
-  },
-  "vaquero-tommy-hilfiger-azul-talla-31": {
-    "CINTURA": "38 cm",
-    "ENTREPIERNA": "22 cm",
-    "LARGO": "100 cm"
-  },
-  "vaquero-rustler-negro": {
-    "CINTURA": "40 cm",
-    "ENTREPIERNA": "25 cm",
-    "LARGO": "100 cm"
-  },
-  "vaquero-ruta66-hombre-corte-recto-tiro-alto-azul": {
-    "CINTURA": "34 cm",
-    "ENTREPIERNA": "25 cm",
-    "LARGO": "100 cm"
-  },
-  "pantalon-cargo-massimo-dutti-beige-talla-l": {
-    "CINTURA": "44 cm",
-    "LARGO": "105 cm"
-  },
-  "pantalon-vaquero-verde-caqui-ancho-talla-38": {
-    "CINTURA": "34 cm",
-    "ENTREPIERNA": "28 cm",
-    "LARGO": "98 cm"
-  },
-  "pantalon-de-chandal-adidas-negro-talla-m": {
-    "CINTURA": "38 cm",
-    "ENTREPIERNA": "24 cm",
-    "LARGO": "96 cm"
-  },
-  "pantalon-de-chandal-fila-negro-talla-m": {
-    "CINTURA": "37 cm",
-    "ENTREPIERNA": "23 cm",
-    "LARGO": "100 cm"
-  },
-  "pantalon-de-chandal-adidas-azul-marino-talla-xl": {
-    "CINTURA": "46 cm",
-    "ENTREPIERNA": "31 cm",
-    "LARGO": "98 cm"
-  },
-  "track-pant-adidas-nailon-gris": {
-    "CINTURA": "42 cm",
-    "ENTREPIERNA": "30 cm",
-    "LARGO": "105 cm"
-  },
-  "track-pant-adidas-azul-marino": {
-    "CINTURA": "43 cm",
-    "ENTREPIERNA": "30 cm",
-    "LARGO": "98 cm"
-  },
-  "chaleco-nike-air-negro-sin-mangas": {
-    "PECHO": "45 cm",
-    "HOMBROS": "45 cm",
-    "LARGO": "60 cm"
-  },
-  "sudadera-champion-negra": {
-    "PECHO": "48 cm",
-    "HOMBROS": "44 cm",
-    "CINTURA": "40 cm",
-    "LARGO": "58 cm"
-  },
-  "sudadera-puma-negra-talla-m": {
-    "PECHO": "47 cm",
-    "HOMBROS": "45 cm",
-    "CINTURA": "45 cm",
-    "LARGO": "64 cm"
-  },
-  "sudadera-champion-azul-marino-talla-m": {
-    "PECHO": "47 cm",
-    "HOMBROS": "44 cm",
-    "CINTURA": "47 cm",
-    "LARGO": "60 cm"
-  },
-  "camiseta-adidas-negra-estampado-fragmentado-talla-m": {
-    "PECHO": "42 cm",
-    "CINTURA": "44 cm",
-    "LARGO": "56 cm"
-  },
-  "camiseta-versace-celeste-talla-l": {
-    "PECHO": "45 cm",
-    "HOMBROS": "42 cm",
-    "CINTURA": "45 cm",
-    "LARGO": "61 cm"
-  },
-  "vaquero-vintage-dressing-onyx-jeans-azul-talla-27": {
-    "CINTURA": "30 cm",
-    "LARGO": "102 cm"
-  },
-  "vaquero-levi-s-560-hombre-corte-recto-lavado-medio": {
-    "CINTURA": "31 cm",
-    "ENTREPIERNA": "25 cm",
-    "LARGO": "99 cm"
-  },
-  "vaquero-hamilton-azul-talla-27": {
-    "CINTURA": "30 cm",
-    "LARGO": "97 cm"
-  },
-  "vaquero-estampado-geometrico-cintura-elastica": {
-    "CINTURA": "31 cm",
-    "ENTREPIERNA": "25 cm",
-    "LARGO": "99 cm"
-  },
-  "vaquero-guess-brittney-skinny-verde-talla-28": {
-    "CINTURA": "35 cm"
-  },
-  "falda-vaquera-trussardi-marron-cargo-talla-m": {
-    "CINTURA": "43 cm",
-    "ENTREPIERNA": "48 cm",
-    "LARGO": "51 cm"
-  },
-  "polo-fred-perry-rosa-talla-s-de-mujer": {
-    "PECHO": "43 cm",
-    "HOMBROS": "35 cm",
-    "CINTURA": "43 cm",
-    "LARGO": "59 cm"
-  },
-  "trench-punt-roma-fucsia-talla-44": {
-    "PECHO": "50 cm",
-    "CINTURA": "46 cm",
-    "LARGO": "97 cm"
-  },
-  "sudadera-nike-tech-fleece-hombre-negra-premium": {
-    "PECHO": "47 cm",
-    "HOMBROS": "40 cm",
-    "LARGO": "53 cm"
-  },
-  "camiseta-levi-s-mujer-rosa-manga-larga": {
-    "PECHO": "32 cm",
-    "HOMBROS": "28 cm",
-    "LARGO": "47 cm"
-  }
+ "bomber-champions-azul-talla-l": {
+  "CINTURA": "49 cm",
+  "HOMBROS": "54 cm",
+  "LARGO": "66 cm",
+  "PECHO": "60 cm"
+ },
+ "camisa-la-martina-polo-pampas-azul-marino-talla-m": {
+  "CINTURA": "47 cm",
+  "LARGO": "60 cm",
+  "PECHO": "47 cm"
+ },
+ "camiseta-adidas-negra-estampado-fragmentado-talla-m": {
+  "CINTURA": "44 cm",
+  "LARGO": "56 cm",
+  "PECHO": "42 cm"
+ },
+ "camiseta-adidas-originals-blanca-talla-s": {
+  "CINTURA": "49 cm",
+  "HOMBROS": "40 cm",
+  "LARGO": "5 cm",
+  "PECHO": "45 cm"
+ },
+ "camiseta-hugo-boss-azul-marino": {
+  "CINTURA": "53 cm",
+  "LARGO": "67 cm"
+ },
+ "camiseta-levi-s-mujer-rosa-manga-larga": {
+  "HOMBROS": "28 cm",
+  "LARGO": "47 cm",
+  "PECHO": "32 cm"
+ },
+ "camiseta-manga-larga-superdry-azul-y-gris": {
+  "CINTURA": "46 cm",
+  "HOMBROS": "40 cm",
+  "LARGO": "61 cm",
+  "PECHO": "45 cm"
+ },
+ "camiseta-nike-gris-logo-camuflaje": {
+  "CINTURA": "50 cm",
+  "HOMBROS": "42 cm",
+  "LARGO": "70 cm",
+  "PECHO": "52 cm"
+ },
+ "camiseta-nike-just-do-it-negra-talla-m": {
+  "CINTURA": "55 cm",
+  "LARGO": "62 cm"
+ },
+ "camiseta-vans-negra": {
+  "CINTURA": "43 cm",
+  "HOMBROS": "40 cm",
+  "LARGO": "62 cm",
+  "PECHO": "44 cm"
+ },
+ "camiseta-versace-celeste-talla-l": {
+  "CINTURA": "45 cm",
+  "HOMBROS": "42 cm",
+  "LARGO": "61 cm",
+  "PECHO": "45 cm"
+ },
+ "chaleco-nike-air-negro-sin-mangas": {
+  "HOMBROS": "45 cm",
+  "LARGO": "60 cm",
+  "PECHO": "45 cm"
+ },
+ "chaqueta-adidas-azul-marino-con-detalles-rojos-talla-m": {
+  "CINTURA": "52 cm",
+  "LARGO": "60 cm",
+  "PECHO": "54 cm"
+ },
+ "chaqueta-adidas-hombre-gris-con-capucha-3-bandas": {
+  "HOMBROS": "39 cm",
+  "LARGO": "56 cm",
+  "PECHO": "44 cm"
+ },
+ "chaqueta-adidas-originals-azul-estampada-talla-s": {
+  "CINTURA": "37 cm",
+  "HOMBROS": "37 cm",
+  "LARGO": "55 cm",
+  "PECHO": "43 cm"
+ },
+ "chaqueta-adidas-originals-rosa-y-negra-con-capucha-talla-s": {
+  "CINTURA": "42 cm",
+  "LARGO": "56 cm",
+  "PECHO": "49 cm"
+ },
+ "chaqueta-adidas-retro-gris-con-mangas-negras-talla-xs": {
+  "CINTURA": "49 cm",
+  "LARGO": "68 cm",
+  "PECHO": "49 cm"
+ },
+ "chaqueta-bomber-negra-satinada-con-parche-bordado-estilo-college": {
+  "CINTURA": "46 cm",
+  "LARGO": "70 cm",
+  "PECHO": "63 cm"
+ },
+ "chaqueta-calvin-klein-negra-con-capucha-y-cremallera-talla-s": {
+  "CINTURA": "52 cm",
+  "LARGO": "64 cm",
+  "PECHO": "52 cm"
+ },
+ "chaqueta-de-beisbol-americana-talla-l": {
+  "CINTURA": "37 cm",
+  "HOMBROS": "50 cm",
+  "LARGO": "64 cm",
+  "PECHO": "49 cm"
+ },
+ "chaqueta-deportiva-adidas-gris-con-ribetes-rojos-talla-l": {
+  "CINTURA": "50 cm",
+  "HOMBROS": "45 cm",
+  "LARGO": "65 cm",
+  "PECHO": "50 cm"
+ },
+ "chaqueta-deportiva-azul-marino-usa-talla-xl": {
+  "CINTURA": "52 cm",
+  "HOMBROS": "57 cm",
+  "LARGO": "65 cm",
+  "PECHO": "66 cm"
+ },
+ "chaqueta-fila-blanca-con-franjas-verdes-y-moradas-talla-l": {
+  "CINTURA": "42 cm",
+  "LARGO": "63 cm",
+  "PECHO": "57 cm"
+ },
+ "chaqueta-nike-negra-franjas-turquesa-infantil-talla-8-10y": {
+  "CINTURA": "43 cm",
+  "HOMBROS": "37 cm",
+  "LARGO": "56 cm",
+  "PECHO": "47 cm"
+ },
+ "chaqueta-st-joseph-council-granate-estilo-universitario-talla-xl": {
+  "CINTURA": "52 cm",
+  "LARGO": "68 cm",
+  "PECHO": "64 cm"
+ },
+ "cortavientos-adidas-azul-marino-franja-amarilla-talla-l": {
+  "CINTURA": "50 cm",
+  "HOMBROS": "58 cm",
+  "LARGO": "64 cm",
+  "PECHO": "58 cm"
+ },
+ "cortavientos-calvin-klein-beige-con-capucha-talla-l": {
+  "CINTURA": "60 cm",
+  "LARGO": "68 cm",
+  "PECHO": "55 cm"
+ },
+ "cortavientos-fila-negro-con-mangas-geometricas-amarillas-talla-s": {
+  "CINTURA": "48 cm",
+  "LARGO": "58 cm",
+  "PECHO": "50 cm"
+ },
+ "cortavientos-nike-blanco-gris-y-negro-talla-m": {
+  "CINTURA": "50 cm",
+  "HOMBROS": "52 cm",
+  "LARGO": "54 cm",
+  "PECHO": "50 cm"
+ },
+ "cortavientos-the-north-face-azul-y-negro-talla-por-confirmar": {
+  "CINTURA": "55 cm",
+  "HOMBROS": "43 cm",
+  "LARGO": "64 cm",
+  "PECHO": "50 cm"
+ },
+ "cortavientos-tommy-hilfiger-marron-y-caqui-con-cremallera-talla-xl": {
+  "CINTURA": "62 cm",
+  "LARGO": "67 cm",
+  "PECHO": "62 cm"
+ },
+ "falda-vaquera-trussardi-marron-cargo-talla-m": {
+  "CINTURA": "43 cm",
+  "ENTREPIERNA": "48 cm",
+  "LARGO": "51 cm"
+ },
+ "jersey-gris-de-rayas-cuello-cremallera-talla-l": {
+  "CINTURA": "52 cm",
+  "LARGO": "68 cm",
+  "PECHO": "50 cm"
+ },
+ "levi-s-511-azul-oscuro": {
+  "CINTURA": "44 cm",
+  "LARGO": "106 cm"
+ },
+ "levi-s-514-azul-oscuro": {
+  "CINTURA": "43 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "101 cm"
+ },
+ "levi-s-ancho-de-pana-beige-w32-l34": {
+  "CINTURA": "37 cm",
+  "ENTREPIERNA": "27 cm",
+  "LARGO": "100 cm"
+ },
+ "pantalon-cargo-massimo-dutti-beige-talla-l": {
+  "CINTURA": "44 cm",
+  "LARGO": "105 cm"
+ },
+ "pantalon-chino-dockers-beige-talla-m": {
+  "CINTURA": "41 cm",
+  "LARGO": "101 cm"
+ },
+ "pantalon-chino-pedro-del-hierro-beige-talla-xl": {
+  "CINTURA": "50 cm",
+  "ENTREPIERNA": "35 cm"
+ },
+ "pantalon-chino-ralph-lauren-marron-talla-m": {
+  "CINTURA": "38 cm",
+  "LARGO": "106 cm"
+ },
+ "pantalon-chino-tommy-hilfiger-azul-marino-talla-m": {
+  "CINTURA": "43 cm",
+  "LARGO": "106 cm"
+ },
+ "pantalon-corto-adidas-negro-talla-m": {
+  "CINTURA": "38 cm",
+  "LARGO": "47 cm"
+ },
+ "pantalon-de-chandal-adidas-azul-marino-talla-xl": {
+  "CINTURA": "46 cm",
+  "ENTREPIERNA": "31 cm",
+  "LARGO": "98 cm"
+ },
+ "pantalon-de-chandal-adidas-negro-talla-m": {
+  "CINTURA": "38 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "96 cm"
+ },
+ "pantalon-de-chandal-fila-negro-talla-m": {
+  "CINTURA": "37 cm",
+  "ENTREPIERNA": "23 cm",
+  "LARGO": "100 cm"
+ },
+ "pantalon-dockers-negro-talla-m": {
+  "CINTURA": "39 cm",
+  "LARGO": "99 cm"
+ },
+ "pantalon-massimo-dutti-gris-talla-38": {
+  "CINTURA": "39 cm",
+  "ENTREPIERNA": "22 cm",
+  "LARGO": "96 cm"
+ },
+ "pantalon-vaquero-verde-caqui-ancho-talla-38": {
+  "CINTURA": "34 cm",
+  "ENTREPIERNA": "28 cm",
+  "LARGO": "98 cm"
+ },
+ "polo-fred-perry-rosa-talla-s-de-mujer": {
+  "CINTURA": "43 cm",
+  "HOMBROS": "35 cm",
+  "LARGO": "59 cm",
+  "PECHO": "43 cm"
+ },
+ "sudadera-champion-azul-marino-talla-m": {
+  "CINTURA": "47 cm",
+  "HOMBROS": "44 cm",
+  "LARGO": "60 cm",
+  "PECHO": "47 cm"
+ },
+ "sudadera-champion-negra": {
+  "CINTURA": "40 cm",
+  "HOMBROS": "44 cm",
+  "LARGO": "58 cm",
+  "PECHO": "48 cm"
+ },
+ "sudadera-con-capucha-y-cremallera-puma-gris-talla-m-qkqp": {
+  "CINTURA": "43 cm",
+  "LARGO": "63 cm",
+  "PECHO": "50 cm"
+ },
+ "sudadera-nike-tech-fleece-hombre-negra-premium": {
+  "HOMBROS": "40 cm",
+  "LARGO": "53 cm",
+  "PECHO": "47 cm"
+ },
+ "sudadera-puma-negra-talla-m": {
+  "CINTURA": "45 cm",
+  "HOMBROS": "45 cm",
+  "LARGO": "64 cm",
+  "PECHO": "47 cm"
+ },
+ "track-pant-adidas-azul-marino-talla-l": {
+  "CINTURA": "43 cm",
+  "ENTREPIERNA": "30 cm",
+  "LARGO": "98 cm"
+ },
+ "track-pant-adidas-nailon-gris": {
+  "CINTURA": "42 cm",
+  "ENTREPIERNA": "30 cm",
+  "LARGO": "105 cm"
+ },
+ "trench-punt-roma-fucsia-talla-44": {
+  "CINTURA": "46 cm",
+  "LARGO": "97 cm",
+  "PECHO": "50 cm"
+ },
+ "vaquero-calvin-klein-negro-talla-l": {
+  "CINTURA": "41 cm",
+  "ENTREPIERNA": "26 cm",
+  "LARGO": "115 cm"
+ },
+ "vaquero-estampado-geometrico-cintura-elastica": {
+  "CINTURA": "31 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "99 cm"
+ },
+ "vaquero-guess-brittney-skinny-verde-talla-28": {
+  "CINTURA": "35 cm"
+ },
+ "vaquero-hamilton-azul-talla-27": {
+  "CINTURA": "30 cm",
+  "LARGO": "97 cm"
+ },
+ "vaquero-hugo-boss-ancho-azul-talla-m": {
+  "CINTURA": "45 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "107 cm"
+ },
+ "vaquero-lee-azul-claro-talla-m": {
+  "CINTURA": "41 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "103 cm"
+ },
+ "vaquero-levi-s-560-hombre-corte-recto-lavado-medio": {
+  "CINTURA": "31 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "99 cm"
+ },
+ "vaquero-mustang-azul-talla-m": {
+  "CINTURA": "42 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "106 cm"
+ },
+ "vaquero-pierre-cardin-ancho-beige-talla-m": {
+  "CINTURA": "37 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "105 cm"
+ },
+ "vaquero-rustler-negro": {
+  "CINTURA": "40 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "100 cm"
+ },
+ "vaquero-ruta66-mujer-corte-recto-tiro-alto-azul": {
+  "CINTURA": "34 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "100 cm"
+ },
+ "vaquero-tommy-hilfiger-azul-talla-31": {
+  "CINTURA": "38 cm",
+  "ENTREPIERNA": "22 cm",
+  "LARGO": "100 cm"
+ },
+ "vaquero-tommy-jeans-azul-talla-30": {
+  "CINTURA": "36 cm",
+  "LARGO": "97 cm"
+ },
+ "vaquero-vintage-dressing-onyx-jeans-azul-talla-27": {
+  "CINTURA": "30 cm",
+  "LARGO": "102 cm"
+ },
+ "vaquero-wrangler-azul-marino-talla-l": {
+  "CINTURA": "46 cm",
+  "ENTREPIERNA": "30 cm",
+  "LARGO": "92 cm"
+ }
 }
