@@ -276,7 +276,7 @@ BRAND_CHIPS=''.join(f'<button type="button" data-search-term="{escape(b)}">{esca
 def _index_entry(q):
  v=variants(q['front']);thumb=v[0][0] if v else q['front']
  v2=variants(q['back']);thumb2=v2[0][0] if v2 else q['back']
- return {'slug':q['slug'],'name':q['name'],'brand':brand_for(q['name']) or '','kind':q['kind'],'gender':GENDER_LABELS.get(q.get('gender'),''),'size':q['size'],'sizeKey':size_key(q['size']),'price':q['price'],'img':'assets/'+thumb,'img2':'assets/'+thumb2}
+ return {'slug':q['slug'],'name':q['name'],'brand':brand_for(q['name']) or '','kind':q['kind'],'gender':GENDER_LABELS.get(q.get('gender'),''),'size':q['size'],'sizeKey':size_key(q['size']),'price':q['price'],'img':photo_url(thumb,''),'img2':photo_url(thumb2,'')}
 _INDEX=json.dumps([_index_entry(q) for q in PRODUCTS],ensure_ascii=False)
 (ROOT/'assets'/'search-index.json').write_text(_INDEX,encoding='utf-8')
 (ROOT/'assets'/'search-index.js').write_text('window.DECADA_SEARCH='+_INDEX+';',encoding='utf-8')  # funciona también abriendo los HTML con doble clic
