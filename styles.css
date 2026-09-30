@@ -559,7 +559,7 @@ html.lb-open{overflow:hidden}
 .product-lightbox .lightbox-close{position:static;display:grid;place-items:center;width:46px;height:46px;border:1px solid #ffffff40;border-radius:50%;background:transparent;color:#fff;flex:none;transition:border-color .2s,background .2s}
 .product-lightbox .lightbox-close:hover{border-color:var(--pink);background:#2a1824}
 .product-lightbox .lightbox-close svg,.gallery-nav svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
-.lb-stage{position:relative;display:grid;place-items:center;min-height:0;padding:20px clamp(70px,8vw,120px);overflow:hidden}
+.lb-stage{position:relative;display:grid;place-items:center;min-height:0;padding:20px clamp(24px,3vw,56px);overflow:hidden}
 .product-lightbox .lb-stage img{width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;background:none;cursor:zoom-in;transition:transform .3s ease;user-select:none;-webkit-user-drag:none;box-shadow:0 30px 80px #000a}
 .lb-stage.is-zoomed img{transform:scale(2.2);cursor:zoom-out}
 .lb-hint{position:absolute;left:50%;bottom:6px;transform:translateX(-50%);margin:0;font:700 10px 'Barlow Condensed',sans-serif;letter-spacing:.18em;color:#77727d;text-transform:uppercase;pointer-events:none}
