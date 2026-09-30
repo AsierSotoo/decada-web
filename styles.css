@@ -538,6 +538,11 @@ html{scrollbar-gutter:stable;overflow-y:scroll}
 .contact-channels{grid-template-columns:1fr!important;gap:10px}
 .contact-channels>a{min-height:0;padding:22px 24px}
 .contact-channels h2{font-size:clamp(28px,2.6vw,40px);margin:14px 0 6px}
+.contact-grid>.contact-channel{padding:35px;background:#1d1b22;min-height:205px}
+.contact-channels>.contact-channel{min-height:0;padding:22px 24px}
+.contact-channel-links{display:flex;flex-direction:column;gap:8px}
+.contact-channel-links a{color:#b3aeb7;font-size:14px;text-decoration:underline;text-underline-offset:3px;width:fit-content}
+.contact-channel-links a:hover{color:var(--pink)}
 @media(max-width:900px){.contact-layout{grid-template-columns:1fr}.contact-channels{grid-template-columns:1fr 1fr!important}}
 @media(max-width:600px){.form-row{grid-template-columns:1fr}.contact-channels{grid-template-columns:1fr!important}.contact-form{padding:22px 18px;margin-inline:-4px}}
 
