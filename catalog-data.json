@@ -2,6 +2,42 @@
  "hombre": [
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790626058/inventario-pro/decada/vuubzlxeicekn1jpy3um.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790626058/inventario-pro/decada/rhul3nvt05nyyvwfmbko.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790680734/inventario-pro/decada/tezlq6hlr6xw5eh6i2tm.png"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Cortavientos Erreà Pavia azul marino y blanco talla L",
+   "price": "17,95 €",
+   "slug": "cortavientos-errea-pavia-azul-marino-y-blanco-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790626045/inventario-pro/decada/aawiaz9qyvb8zjxq5f6i.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790626045/inventario-pro/decada/ssvrhuzt6ocufvkrhxqf.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681017/inventario-pro/decada/dxlombpboq2tzykqxsrw.png"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Cortavientos Lotto azul marino rojo y blanco talla XL",
+   "price": "27,95 €",
+   "slug": "cortavientos-lotto-azul-marino-rojo-y-blanco-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790622983/inventario-pro/decada/napjoi0bhltwmordtufv.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790622983/inventario-pro/decada/wm3ik1tk8gqadnhrtkmx.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681028/inventario-pro/decada/qqb8tpjnqgrgi3rcdtrm.png"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Cortavientos Champion negro y gris vintage con ribetes amarillos",
+   "price": "29,95 €",
+   "slug": "cortavientos-champion-negro-y-gris-vintage-con-ribetes-amarillos",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790699884/inventario-pro/decada/iucihy2dyhggekhuxwt3.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790699884/inventario-pro/decada/pzoskgaxifgd45oryxo1.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681032/inventario-pro/decada/khhx2gxoprshquljobyr.png"
@@ -10,18 +46,6 @@
    "name": "Bomber Champions azul talla L",
    "price": "29,95 €",
    "slug": "bomber-champions-azul-talla-l",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790700157/inventario-pro/decada/ofjjnsicwmpjn3drjxd8.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790700157/inventario-pro/decada/nkrj3kkqnf1nzntrbahn.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790757366/inventario-pro/decada/rkpx7cbpt6rgywop2ddj.png"
-   ],
-   "meta": "TALLA L · MUY BUENO",
-   "name": "Chaqueta de Beisbol Americana talla L",
-   "price": "24,95 €",
-   "slug": "chaqueta-de-beisbol-americana-talla-l",
    "condition": ""
   },
   {
@@ -46,6 +70,78 @@
    "name": "Chaqueta deportiva azul marino USA talla XL",
    "price": "28,95 €",
    "slug": "chaqueta-deportiva-azul-marino-usa-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766101/inventario-pro/decada/x2alixnof1huyrb04riu.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766101/inventario-pro/decada/yzlpqbrkx3pfpsvtb6rk.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790757310/inventario-pro/decada/ga2zs687fskvmpxzc7r4.png"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Cortavientos Adidas verde rayas beige talla Por confirmar",
+   "price": "27,95 €",
+   "slug": "cortavientos-adidas-verde-rayas-beige-talla-por-confirmar",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766103/inventario-pro/decada/isyxj4zeoe1vmwywhujf.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753414/inventario-pro/decada/sbajcug8uscbqtzezlt5.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681581/inventario-pro/decada/xzdfuokqntjvp7iut8pi.png"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Chaqueta Fila gris oscuro talla XL",
+   "price": "22,95 €",
+   "slug": "chaqueta-fila-gris-oscuro-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766106/inventario-pro/decada/rzgwii4fuirozaaitenu.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753591/inventario-pro/decada/ru4ijarizdt69eaeen2p.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681883/inventario-pro/decada/q06phwedrv4up0p8avtf.png"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Chaqueta Fila azul marino franjas blancas talla XL",
+   "price": "23,95 €",
+   "slug": "chaqueta-fila-azul-marino-franjas-blancas-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766108/inventario-pro/decada/ap4wgwm4xs5ikjxlmazk.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753698/inventario-pro/decada/xcitasdgvv7kisjsdumu.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681887/inventario-pro/decada/swkshulv5zmgwpku0vlg.png"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta Calvin Klein crema multibolsillos talla L",
+   "price": "24,95 €",
+   "slug": "chaqueta-calvin-klein-crema-multibolsillos-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766110/inventario-pro/decada/c39fqhyemnmemiyt94nz.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753766/inventario-pro/decada/o2jiknidijgn0uxvit18.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681890/inventario-pro/decada/hlw3tn8qn7zti2uoqf4t.png"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Chaqueta Tommy Hilfiger azul marino capucha talla M",
+   "price": "34,95 €",
+   "slug": "chaqueta-tommy-hilfiger-azul-marino-capucha-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766112/inventario-pro/decada/a4x6i6jqixt09cdofsi6.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753770/inventario-pro/decada/hujdf0fed884dz1twtrq.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682111/inventario-pro/decada/o3nv1joyg6hg1avokefo.png"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Chaqueta Chaps beige forro cuadros talla XL",
+   "price": "29,95 €",
+   "slug": "chaqueta-chaps-beige-forro-cuadros-talla-xl",
    "condition": ""
   },
   {
@@ -654,6 +750,18 @@
   },
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766843/inventario-pro/decada/nvhyphq4kmfcgrzngexu.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766843/inventario-pro/decada/pduo8aog3zw7gxlihhqo.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682961/inventario-pro/decada/hxf2yjtxnc9j25iknlpf.png"
+   ],
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Chaqueta Fila turquesa y negra con cremallera, talla S",
+   "price": "14,95 €",
+   "slug": "chaqueta-fila-turquesa-y-negra-con-cremallera-talla-s",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488182/inventario-pro/decada/xc6lir6kurg8cwwsaqpe.jpg",
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488233/inventario-pro/decada/s7kvt99d2vg3u5uzfw8h.jpg"
    ],
@@ -803,18 +911,6 @@
   }
  ],
  "ninos": [
-  {
-   "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790700093/inventario-pro/decada/y1lzsbm816e9514hdsch.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753776/inventario-pro/decada/pyarskvbvo6mmspbat3a.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682120/inventario-pro/decada/gm04m38uhm0rvyt5mukv.png"
-   ],
-   "meta": "TALLA 8-10y · MUY BUENO",
-   "name": "Chaqueta Nike negra franjas turquesa infantil talla 8-10y",
-   "price": "24,95 €",
-   "slug": "chaqueta-nike-negra-franjas-turquesa-infantil-talla-8-10y",
-   "condition": ""
-  },
   {
    "imgs": [
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788953460/inventario-pro/decada/tzgn6v5ptt3vfscim1t4.jpg",

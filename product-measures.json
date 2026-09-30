@@ -89,16 +89,20 @@
   "LARGO": "70 cm",
   "PECHO": "63 cm"
  },
+ "chaqueta-calvin-klein-crema-multibolsillos-talla-l": {
+  "CINTURA": "51 cm",
+  "LARGO": "67 cm",
+  "PECHO": "50 cm"
+ },
  "chaqueta-calvin-klein-negra-con-capucha-y-cremallera-talla-s": {
   "CINTURA": "52 cm",
   "LARGO": "64 cm",
   "PECHO": "52 cm"
  },
- "chaqueta-de-beisbol-americana-talla-l": {
-  "CINTURA": "37 cm",
-  "HOMBROS": "50 cm",
-  "LARGO": "64 cm",
-  "PECHO": "49 cm"
+ "chaqueta-chaps-beige-forro-cuadros-talla-xl": {
+  "CINTURA": "56 cm",
+  "LARGO": "67 cm",
+  "PECHO": "66 cm"
  },
  "chaqueta-deportiva-adidas-gris-con-ribetes-rojos-talla-l": {
   "CINTURA": "50 cm",
@@ -112,21 +116,35 @@
   "LARGO": "65 cm",
   "PECHO": "66 cm"
  },
+ "chaqueta-fila-azul-marino-franjas-blancas-talla-xl": {
+  "CINTURA": "54 cm",
+  "LARGO": "66 cm",
+  "PECHO": "58 cm"
+ },
  "chaqueta-fila-blanca-con-franjas-verdes-y-moradas-talla-l": {
   "CINTURA": "42 cm",
   "LARGO": "63 cm",
   "PECHO": "57 cm"
  },
- "chaqueta-nike-negra-franjas-turquesa-infantil-talla-8-10y": {
-  "CINTURA": "43 cm",
-  "HOMBROS": "37 cm",
-  "LARGO": "56 cm",
-  "PECHO": "47 cm"
+ "chaqueta-fila-gris-oscuro-talla-xl": {
+  "CINTURA": "61 cm",
+  "LARGO": "68 cm",
+  "PECHO": "61 cm"
+ },
+ "chaqueta-fila-turquesa-y-negra-con-cremallera-talla-s": {
+  "CINTURA": "44 cm",
+  "LARGO": "59 cm",
+  "PECHO": "38 cm"
  },
  "chaqueta-st-joseph-council-granate-estilo-universitario-talla-xl": {
   "CINTURA": "52 cm",
   "LARGO": "68 cm",
   "PECHO": "64 cm"
+ },
+ "chaqueta-tommy-hilfiger-azul-marino-capucha-talla-m": {
+  "CINTURA": "51 cm",
+  "LARGO": "64 cm",
+  "PECHO": "58 cm"
  },
  "cortavientos-adidas-azul-marino-franja-amarilla-talla-l": {
   "CINTURA": "50 cm",
@@ -134,15 +152,35 @@
   "LARGO": "64 cm",
   "PECHO": "58 cm"
  },
+ "cortavientos-adidas-verde-rayas-beige-talla-por-confirmar": {
+  "CINTURA": "54 cm",
+  "LARGO": "66 cm",
+  "PECHO": "55 cm"
+ },
  "cortavientos-calvin-klein-beige-con-capucha-talla-l": {
   "CINTURA": "60 cm",
   "LARGO": "68 cm",
   "PECHO": "55 cm"
  },
+ "cortavientos-champion-negro-y-gris-vintage-con-ribetes-amarillos": {
+  "CINTURA": "54 cm",
+  "LARGO": "69 cm",
+  "PECHO": "58 cm"
+ },
+ "cortavientos-errea-pavia-azul-marino-y-blanco-talla-l": {
+  "CINTURA": "41 cm",
+  "LARGO": "65 cm",
+  "PECHO": "50 cm"
+ },
  "cortavientos-fila-negro-con-mangas-geometricas-amarillas-talla-s": {
   "CINTURA": "48 cm",
   "LARGO": "58 cm",
   "PECHO": "50 cm"
+ },
+ "cortavientos-lotto-azul-marino-rojo-y-blanco-talla-xl": {
+  "CINTURA": "50 cm",
+  "LARGO": "66 cm",
+  "PECHO": "60 cm"
  },
  "cortavientos-nike-blanco-gris-y-negro-talla-m": {
   "CINTURA": "50 cm",
