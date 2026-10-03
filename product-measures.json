@@ -84,6 +84,16 @@
   "LARGO": "70 cm",
   "PECHO": "63 cm"
  },
+ "chaqueta-bomber-roja-satinada-con-bordado-frontal-estilo-college": {
+  "CINTURA": "40 cm",
+  "LARGO": "70 cm",
+  "PECHO": "67 cm"
+ },
+ "chaqueta-bomber-roja-satinada-estilo-universitario-talla-l": {
+  "CINTURA": "42 cm",
+  "LARGO": "66 cm",
+  "PECHO": "59 cm"
+ },
  "chaqueta-calvin-klein-crema-multibolsillos-talla-l": {
   "CINTURA": "51 cm",
   "LARGO": "67 cm",
@@ -131,6 +141,21 @@
   "LARGO": "59 cm",
   "PECHO": "38 cm"
  },
+ "chaqueta-gris-jaspeada-con-cremallera-y-cuello-alto-talla-m": {
+  "CINTURA": "49 cm",
+  "LARGO": "59 cm",
+  "PECHO": "49 cm"
+ },
+ "chaqueta-old-navy-negra-con-bolsillos-de-solapa": {
+  "CINTURA": "48 cm",
+  "LARGO": "64 cm",
+  "PECHO": "48 cm"
+ },
+ "chaqueta-robbie-s-bramalea-blues-azul-y-amarilla-talla-l": {
+  "CINTURA": "36 cm",
+  "LARGO": "64 cm",
+  "PECHO": "53 cm"
+ },
  "chaqueta-st-joseph-council-granate-estilo-universitario-talla-xl": {
   "CINTURA": "52 cm",
   "LARGO": "68 cm",
@@ -141,6 +166,11 @@
   "HOMBROS": "58 cm",
   "LARGO": "64 cm",
   "PECHO": "58 cm"
+ },
+ "cortavientos-adidas-negro-rayas-blancas-talla-l": {
+  "CINTURA": "52 cm",
+  "LARGO": "68 cm",
+  "PECHO": "57 cm"
  },
  "cortavientos-calvin-klein-beige-con-capucha-talla-l": {
   "CINTURA": "60 cm",
@@ -177,6 +207,11 @@
   "CINTURA": "52 cm",
   "LARGO": "68 cm",
   "PECHO": "50 cm"
+ },
+ "jersey-izod-club-beige-de-cuello-pico-talla-s": {
+  "CINTURA": "40 cm",
+  "LARGO": "60 cm",
+  "PECHO": "53 cm"
  },
  "levi-s-511-azul-oscuro": {
   "CINTURA": "44 cm",
@@ -294,6 +329,11 @@
   "LARGO": "97 cm",
   "PECHO": "50 cm"
  },
+ "vaquero-ancho-azul-claro-lavado-talla-petite-2r": {
+  "CINTURA": "31 cm",
+  "ENTREPIERNA": "23 cm",
+  "LARGO": "96 cm"
+ },
  "vaquero-calvin-klein-negro-talla-l": {
   "CINTURA": "41 cm",
   "ENTREPIERNA": "26 cm",
@@ -315,6 +355,10 @@
   "CINTURA": "45 cm",
   "ENTREPIERNA": "25 cm",
   "LARGO": "107 cm"
+ },
+ "vaquero-kirkland-ancho-azul-claro-talla-m": {
+  "ENTREPIERNA": "29 cm",
+  "LARGO": "106 cm"
  },
  "vaquero-lee-azul-claro-talla-m": {
   "CINTURA": "41 cm",
