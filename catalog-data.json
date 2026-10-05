@@ -254,18 +254,6 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701015/inventario-pro/decada/amkfy85bgkgvnq8gavji.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701015/inventario-pro/decada/la0ph6ed9ou8uq5zwslg.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790684184/inventario-pro/decada/sodawqwhmijivnsh3xjh.png"
-   ],
-   "meta": "TALLA XL · MUY BUENO",
-   "name": "Cortavientos Tommy Hilfiger marrón y caqui con cremallera, talla XL",
-   "price": "24,95 €",
-   "slug": "cortavientos-tommy-hilfiger-marron-y-caqui-con-cremallera-talla-xl",
-   "condition": ""
-  },
-  {
-   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701072/inventario-pro/decada/tdzugctgalsssrgnekp3.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701072/inventario-pro/decada/y2ak3aieqkxv5ucmw5xa.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790757436/inventario-pro/decada/egiqdnt9xlkjam5owtcp.png"
@@ -853,8 +841,8 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488233/inventario-pro/decada/s7kvt99d2vg3u5uzfw8h.jpg",
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488182/inventario-pro/decada/xc6lir6kurg8cwwsaqpe.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789488233/inventario-pro/decada/s7kvt99d2vg3u5uzfw8h.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141758/inventario-pro/decada/hzywchf94afyi9bdg0da.jpg"
    ],
    "meta": "TALLA 27 · MUY BUENO",
