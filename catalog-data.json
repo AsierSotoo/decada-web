@@ -86,20 +86,8 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766106/inventario-pro/decada/rzgwii4fuirozaaitenu.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753591/inventario-pro/decada/ru4ijarizdt69eaeen2p.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681883/inventario-pro/decada/q06phwedrv4up0p8avtf.png"
-   ],
-   "meta": "TALLA XL · MUY BUENO",
-   "name": "Chaqueta Fila azul marino franjas blancas talla XL",
-   "price": "23,95 €",
-   "slug": "chaqueta-fila-azul-marino-franjas-blancas-talla-xl",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766108/inventario-pro/decada/ap4wgwm4xs5ikjxlmazk.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753698/inventario-pro/decada/xcitasdgvv7kisjsdumu.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766108/inventario-pro/decada/ap4wgwm4xs5ikjxlmazk.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681887/inventario-pro/decada/swkshulv5zmgwpku0vlg.png"
    ],
    "meta": "TALLA L · MUY BUENO",
@@ -262,18 +250,6 @@
    "name": "Chaqueta St. Joseph Council granate estilo universitario, talla XL",
    "price": "22,95 €",
    "slug": "chaqueta-st-joseph-council-granate-estilo-universitario-talla-xl",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701130/inventario-pro/decada/nsnrhckkvhzjqgitqoi7.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701130/inventario-pro/decada/yre7c2gi5wylg27bsrlr.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790757441/inventario-pro/decada/voqcrnvjk16hchf4lhqk.png"
-   ],
-   "meta": "TALLA L · MUY BUENO",
-   "name": "Chaqueta Fila blanca con franjas verdes y moradas, talla L",
-   "price": "24,95 €",
-   "slug": "chaqueta-fila-blanca-con-franjas-verdes-y-moradas-talla-l",
    "condition": ""
   },
   {
