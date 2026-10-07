@@ -84,6 +84,11 @@
   "LARGO": "70 cm",
   "PECHO": "63 cm"
  },
+ "chaqueta-bomber-old-navy-color-crema-talla-xs": {
+  "CINTURA": "36 cm",
+  "LARGO": "56 cm",
+  "PECHO": "51 cm"
+ },
  "chaqueta-bomber-roja-satinada-con-bordado-frontal-estilo-college": {
   "CINTURA": "40 cm",
   "LARGO": "70 cm",
@@ -314,6 +319,11 @@
   "LARGO": "97 cm",
   "PECHO": "50 cm"
  },
+ "vaquero-american-style-ancho-azul-claro-talla-m": {
+  "CINTURA": "36 cm",
+  "ENTREPIERNA": "31 cm",
+  "LARGO": "107 cm"
+ },
  "vaquero-ancho-azul-claro-lavado-talla-petite-2r": {
   "CINTURA": "31 cm",
   "ENTREPIERNA": "23 cm",
@@ -323,6 +333,11 @@
   "CINTURA": "41 cm",
   "ENTREPIERNA": "26 cm",
   "LARGO": "115 cm"
+ },
+ "vaquero-cargo-vintage-dressing-ancho-azul-talla-m": {
+  "CINTURA": "34 cm",
+  "ENTREPIERNA": "30 cm",
+  "LARGO": "101 cm"
  },
  "vaquero-estampado-geometrico-cintura-elastica": {
   "CINTURA": "31 cm",
@@ -355,6 +370,10 @@
   "ENTREPIERNA": "25 cm",
   "LARGO": "99 cm"
  },
+ "vaquero-levi-s-azul-oscuro-raw-talla-w26": {
+  "CINTURA": "34 cm",
+  "LARGO": "98 cm"
+ },
  "vaquero-mustang-azul-talla-m": {
   "CINTURA": "42 cm",
   "ENTREPIERNA": "25 cm",
@@ -383,6 +402,11 @@
  "vaquero-tommy-jeans-azul-talla-30": {
   "CINTURA": "36 cm",
   "LARGO": "97 cm"
+ },
+ "vaquero-vintage-azul-wide-leg-talla-w30": {
+  "CINTURA": "38 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "107 cm"
  },
  "vaquero-vintage-dressing-onyx-jeans-azul-talla-27": {
   "CINTURA": "30 cm",

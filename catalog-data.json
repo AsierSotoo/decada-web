@@ -242,6 +242,18 @@
   },
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141191/inventario-pro/decada/qv31fw5wfw9gt0zjgoov.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790679759/inventario-pro/decada/wygskkssmi6o4j1mhoum.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790684157/inventario-pro/decada/unuv3kmfue2bu3lckkie.png"
+   ],
+   "meta": "TALLA XS · MUY BUENO",
+   "name": "Chaqueta bomber Old Navy color crema, talla XS",
+   "price": "14,95 €",
+   "slug": "chaqueta-bomber-old-navy-color-crema-talla-xs",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701072/inventario-pro/decada/tdzugctgalsssrgnekp3.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701072/inventario-pro/decada/y2ak3aieqkxv5ucmw5xa.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790757436/inventario-pro/decada/egiqdnt9xlkjam5owtcp.png"
@@ -262,6 +274,18 @@
    "name": "Vaquero Tommy Hilfiger azul, talla 31",
    "price": "16,95 €",
    "slug": "vaquero-tommy-hilfiger-azul-talla-31",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788542168/inventario-pro/decada/dp7zip0l9dectolvjkg7.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788538943/inventario-pro/decada/pzdiqbf786zwf01mjb2x.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141550/inventario-pro/decada/p97qvaho5xyecfzy57sh.jpg"
+   ],
+   "meta": "TALLA W26 · MUY BUENO",
+   "name": "Vaquero Levi's azul oscuro raw, talla W26",
+   "price": "12,95 €",
+   "slug": "vaquero-levi-s-azul-oscuro-raw-talla-w26",
    "condition": ""
   },
   {
@@ -885,6 +909,42 @@
    "name": "Vaquero Kirkland ancho azul claro, talla M",
    "price": "20,00 €",
    "slug": "vaquero-kirkland-ancho-azul-claro-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789546131/inventario-pro/decada/qfzdvgqwbsnjmdmxet1y.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789546131/inventario-pro/decada/w1hn83rrav6agqljwfpi.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141905/inventario-pro/decada/noequ9yjl4omtvawv5yy.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Vaquero American style ancho azul claro, talla M",
+   "price": "20,00 €",
+   "slug": "vaquero-american-style-ancho-azul-claro-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426405/inventario-pro/decada/jmij9nxtxybtyulcsopw.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426405/inventario-pro/decada/uaoat3ocqr28anlviajy.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142141/inventario-pro/decada/e8pi1bt8xcfsflitfihv.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Vaquero cargo Vintage Dressing ancho azul, talla M",
+   "price": "20,00 €",
+   "slug": "vaquero-cargo-vintage-dressing-ancho-azul-talla-m",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789729459/inventario-pro/decada/iri3jbxelbmylbkc2gui.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789729502/inventario-pro/decada/g35seozo1ogfyabttwg6.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142239/inventario-pro/decada/rgaltreiriybcu2sinks.jpg"
+   ],
+   "meta": "TALLA W30 · MUY BUENO",
+   "name": "Vaquero vintage azul wide leg, talla W30",
+   "price": "17,95 €",
+   "slug": "vaquero-vintage-azul-wide-leg-talla-w30",
    "condition": ""
   },
   {
