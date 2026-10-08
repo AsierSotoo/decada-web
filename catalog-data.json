@@ -158,18 +158,6 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790700698/inventario-pro/decada/so3mjvmsbzvrljwhglec.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790700698/inventario-pro/decada/ft29rbnw5vsose3o7coq.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682534/inventario-pro/decada/sqt5vo84nxxev1bmza2s.png"
-   ],
-   "meta": "TALLA S · MUY BUENO",
-   "name": "Chaqueta Calvin Klein negra con capucha y cremallera, talla S",
-   "price": "19,95 €",
-   "slug": "chaqueta-calvin-klein-negra-con-capucha-y-cremallera-talla-s",
-   "condition": ""
-  },
-  {
-   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790767364/inventario-pro/decada/rj8sdfhxuukew5zxpez4.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790767364/inventario-pro/decada/ifjarym55j5ywet9v07f.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682734/inventario-pro/decada/vjtdpawwcwsiahoyllco.png"
@@ -278,18 +266,6 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788542168/inventario-pro/decada/dp7zip0l9dectolvjkg7.jpg",
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788538943/inventario-pro/decada/pzdiqbf786zwf01mjb2x.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141550/inventario-pro/decada/p97qvaho5xyecfzy57sh.jpg"
-   ],
-   "meta": "TALLA W26 · MUY BUENO",
-   "name": "Vaquero Levi's azul oscuro raw, talla W26",
-   "price": "12,95 €",
-   "slug": "vaquero-levi-s-azul-oscuro-raw-talla-w26",
-   "condition": ""
-  },
-  {
-   "imgs": [
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788858945/inventario-pro/decada/cgg6v9oxgzyxj8s5odtz.jpg",
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788859302/inventario-pro/decada/tv4y8dbybwpko1ai7ka6.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141636/inventario-pro/decada/vsvdshs22ezl95wnnwf2.jpg"
@@ -298,18 +274,6 @@
    "name": "Camiseta manga larga Superdry azul y gris",
    "price": "9,95 €",
    "slug": "camiseta-manga-larga-superdry-azul-y-gris",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789489448/inventario-pro/decada/mhiozidypyhsrqgldxdu.jpg",
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789489448/inventario-pro/decada/u6cts3wucr241cstqwv8.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141764/inventario-pro/decada/emsn5glgoucc67z5kwib.jpg"
-   ],
-   "meta": "TALLA S · MUY BUENO",
-   "name": "Vaquero J Galt básico azul claro, talla S",
-   "price": "19,95 €",
-   "slug": "vaquero-j-galt-basico-azul-claro-talla-s",
    "condition": ""
   },
   {
@@ -829,6 +793,18 @@
   },
   {
    "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788542168/inventario-pro/decada/dp7zip0l9dectolvjkg7.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788538943/inventario-pro/decada/pzdiqbf786zwf01mjb2x.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141550/inventario-pro/decada/p97qvaho5xyecfzy57sh.jpg"
+   ],
+   "meta": "TALLA W26 · MUY BUENO",
+   "name": "Vaquero Levi's 721 azul oscuro, talla W26",
+   "price": "12,95 €",
+   "slug": "vaquero-levi-s-azul-oscuro-raw-talla-w26",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788600174/inventario-pro/decada/tjabdfckifc2y5rsdb8g.jpg",
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788600174/inventario-pro/decada/wf9udooxfsypuyekszo1.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141633/inventario-pro/decada/skuedig8zuturylthin0.jpg"
@@ -861,6 +837,18 @@
    "name": "Vaquero Levi's 560 Hombre Corte Recto Lavado Medio",
    "price": "19,95 €",
    "slug": "vaquero-levi-s-560-hombre-corte-recto-lavado-medio",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789489448/inventario-pro/decada/mhiozidypyhsrqgldxdu.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789489448/inventario-pro/decada/u6cts3wucr241cstqwv8.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141764/inventario-pro/decada/emsn5glgoucc67z5kwib.jpg"
+   ],
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Vaquero J. Galt mom jeans azul claro, talla S (mujer)",
+   "price": "19,95 €",
+   "slug": "vaquero-j-galt-basico-azul-claro-talla-s",
    "condition": ""
   },
   {
