@@ -145,10 +145,10 @@
   "LARGO": "64 cm",
   "PECHO": "58 cm"
  },
- "cortavientos-adidas-negro-rayas-blancas-talla-l": {
-  "CINTURA": "52 cm",
-  "LARGO": "68 cm",
-  "PECHO": "57 cm"
+ "cortavientos-azul-electrico-talla-por-confirmar": {
+  "CINTURA": "62 cm",
+  "LARGO": "76 cm",
+  "PECHO": "70 cm"
  },
  "cortavientos-calvin-klein-beige-con-capucha-talla-l": {
   "CINTURA": "60 cm",
@@ -312,6 +312,21 @@
   "ENTREPIERNA": "23 cm",
   "LARGO": "96 cm"
  },
+ "vaquero-ancho-azul-claro-lavado-talla-w28": {
+  "CINTURA": "32 cm",
+  "ENTREPIERNA": "24 cm",
+  "PECHO": "102 cm"
+ },
+ "vaquero-ancho-azul-medio-talla-42": {
+  "CINTURA": "36 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "101 cm"
+ },
+ "vaquero-arizona-jeans-azul-oscuro-talla-l": {
+  "CINTURA": "38 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "107 cm"
+ },
  "vaquero-calvin-klein-negro-talla-l": {
   "CINTURA": "41 cm",
   "ENTREPIERNA": "26 cm",
@@ -390,6 +405,16 @@
   "CINTURA": "38 cm",
   "ENTREPIERNA": "24 cm",
   "LARGO": "107 cm"
+ },
+ "vaquero-vintage-dressing-ancho-azul-oscuro-talla-38-31": {
+  "CINTURA": "34 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "104 cm"
+ },
+ "vaquero-vintage-dressing-azul-oscuro-talla-l": {
+  "CINTURA": "37 cm",
+  "ENTREPIERNA": "26 cm",
+  "LARGO": "110 cm"
  },
  "vaquero-vintage-dressing-onyx-jeans-azul-talla-27": {
   "CINTURA": "30 cm",
