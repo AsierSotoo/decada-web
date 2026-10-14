@@ -278,6 +278,42 @@
   },
   {
    "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788429726/inventario-pro/decada/wgorzrrvpkhg511kikec.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788429726/inventario-pro/decada/wpepdt5b9grjc8qodwxo.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142225/inventario-pro/decada/zt7w9i2qzwwmznkm86xl.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Vaquero Vintage Dressing azul, talla L",
+   "price": "14,95 €",
+   "slug": "vaquero-vintage-dressing-azul-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789729045/inventario-pro/decada/uw9qu4hwgmkrqpy04tg9.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789729045/inventario-pro/decada/bcd9iczv9tjkfg3hku1r.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142232/inventario-pro/decada/bw01nfgkghpymcvc1n6e.jpg"
+   ],
+   "meta": "TALLA W38 · MUY BUENO",
+   "name": "Vaquero Rustler negro lavado, talla W38",
+   "price": "14,95 €",
+   "slug": "vaquero-rustler-negro-lavado-talla-w38",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789729661/inventario-pro/decada/krokdddzmzmhjqf539ih.jpg",
+    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789729784/inventario-pro/decada/jfdcbgpr5hgazf5dpp1v.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142244/inventario-pro/decada/p2wc3vt8atawtwkk18hz.jpg"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Vaquero negro Faded Glory, talla XL",
+   "price": "19,95 €",
+   "slug": "pantalon-negro-faded-glory-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790074739/inventario-pro/decada/djqbhhxnx94klv3dqylj.jpg",
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1790074739/inventario-pro/decada/auxulvdxz1tgxgixbvh8.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142262/inventario-pro/decada/xytzw658grom3voek91h.jpg"
@@ -298,6 +334,18 @@
    "name": "Pantalón de chándal Adidas azul marino, talla XL",
    "price": "24,95 €",
    "slug": "pantalon-de-chandal-adidas-azul-marino-talla-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791884470/inventario-pro/decada/n8dk0vvltlhypypzt6d2.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791884548/inventario-pro/decada/d9p4ddnzxhwqbtcv17ls.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791884607/inventario-pro/decada/pntprdxvgeo0f4a1rdl8.png"
+   ],
+   "meta": "TALLA S · MUY BUENO",
+   "name": "Jogger Champion negro con logo, talla S",
+   "price": "14,95 €",
+   "slug": "pantalon-jogger-champion-negro-con-logo",
    "condition": ""
   },
   {

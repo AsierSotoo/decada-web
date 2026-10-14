@@ -243,10 +243,20 @@
   "CINTURA": "39 cm",
   "LARGO": "99 cm"
  },
+ "pantalon-jogger-champion-negro-con-logo": {
+  "CINTURA": "34 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "90 cm"
+ },
  "pantalon-massimo-dutti-gris-talla-38": {
   "CINTURA": "39 cm",
   "ENTREPIERNA": "22 cm",
   "LARGO": "96 cm"
+ },
+ "pantalon-negro-faded-glory-xl": {
+  "CINTURA": "41 cm",
+  "ENTREPIERNA": "33 cm",
+  "LARGO": "112 cm"
  },
  "pantalon-vaquero-verde-caqui-ancho-talla-38": {
   "CINTURA": "34 cm",
@@ -387,6 +397,11 @@
   "ENTREPIERNA": "25 cm",
   "LARGO": "100 cm"
  },
+ "vaquero-rustler-negro-lavado-talla-w38": {
+  "CINTURA": "46 cm",
+  "ENTREPIERNA": "31 cm",
+  "LARGO": "97 cm"
+ },
  "vaquero-ruta66-mujer-corte-recto-tiro-alto-azul": {
   "CINTURA": "34 cm",
   "ENTREPIERNA": "25 cm",
@@ -415,6 +430,11 @@
   "CINTURA": "37 cm",
   "ENTREPIERNA": "26 cm",
   "LARGO": "110 cm"
+ },
+ "vaquero-vintage-dressing-azul-talla-l": {
+  "CINTURA": "38 cm",
+  "ENTREPIERNA": "22 cm",
+  "LARGO": "100 cm"
  },
  "vaquero-vintage-dressing-onyx-jeans-azul-talla-27": {
   "CINTURA": "30 cm",
