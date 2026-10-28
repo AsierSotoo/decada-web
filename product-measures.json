@@ -124,6 +124,16 @@
   "LARGO": "59 cm",
   "PECHO": "49 cm"
  },
+ "chaqueta-l-l-bean-vintage-negra-con-capucha": {
+  "CINTURA": "56 cm",
+  "LARGO": "61 cm",
+  "PECHO": "54 cm"
+ },
+ "chaqueta-nike-dri-fit-vintage-azul-marino-con-cremallera": {
+  "CINTURA": "48 cm",
+  "LARGO": "67 cm",
+  "PECHO": "50 cm"
+ },
  "chaqueta-old-navy-negra-con-bolsillos-de-solapa": {
   "CINTURA": "48 cm",
   "LARGO": "64 cm",
@@ -164,6 +174,11 @@
   "CINTURA": "50 cm",
   "LARGO": "66 cm",
   "PECHO": "60 cm"
+ },
+ "cortavientos-nike-storm-fit-vintage-negro-con-capucha": {
+  "CINTURA": "44 cm",
+  "LARGO": "63 cm",
+  "PECHO": "50 cm"
  },
  "falda-vaquera-trussardi-marron-cargo-talla-m": {
   "CINTURA": "43 cm",
@@ -357,6 +372,11 @@
   "ENTREPIERNA": "29 cm",
   "LARGO": "106 cm"
  },
+ "vaquero-laura-biagiotti-jeans-vintage-azul-wide-bordado-rosa-mujer": {
+  "CINTURA": "40 cm",
+  "ENTREPIERNA": "20 cm",
+  "LARGO": "100 cm"
+ },
  "vaquero-lee-azul-claro-talla-m": {
   "CINTURA": "41 cm",
   "ENTREPIERNA": "24 cm",
@@ -374,6 +394,11 @@
  "vaquero-pierre-cardin-ancho-beige-talla-m": {
   "CINTURA": "37 cm",
   "ENTREPIERNA": "25 cm",
+  "LARGO": "105 cm"
+ },
+ "vaquero-pierre-cardin-dijon-azul-talla-w36-l34": {
+  "CINTURA": "43 cm",
+  "ENTREPIERNA": "28 cm",
   "LARGO": "105 cm"
  },
  "vaquero-rustler-negro": {

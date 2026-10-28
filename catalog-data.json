@@ -2,6 +2,54 @@
  "hombre": [
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792772141/inventario-pro/decada/p74zdax92zq3v4bqodur.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793033743/inventario-pro/decada/w4hbwkckwzbly8nohtwy.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792772141/inventario-pro/decada/nbntyvwuatvly7omqzpg.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta L.L.Bean vintage negra con capucha",
+   "price": "22,95 €",
+   "slug": "chaqueta-l-l-bean-vintage-negra-con-capucha",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792773390/inventario-pro/decada/w97ks4ylaqcfja8uwphp.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793032582/inventario-pro/decada/w5zmzi2dljc8iznehu5x.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792773390/inventario-pro/decada/wylttaokpq7mtjjic14d.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Cortavientos Nike Storm-Fit vintage negro con capucha",
+   "price": "27,95 €",
+   "slug": "cortavientos-nike-storm-fit-vintage-negro-con-capucha",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740523/inventario-pro/decada/zu9clhrigq7usuen97yt.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793033355/inventario-pro/decada/yxue7ss6bzlduhxpl35e.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792688799/inventario-pro/decada/f794ldguo6bhtseog1je.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta Nike Dri-FIT vintage azul marino con cremallera",
+   "price": "24,95 €",
+   "slug": "chaqueta-nike-dri-fit-vintage-azul-marino-con-cremallera",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792512576/inventario-pro/decada/gtzbiqqtzgwavziixmjt.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792512837/inventario-pro/decada/oplykvlxy5age0iopyjw.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792512916/inventario-pro/decada/clrobynwxwblzq8kfxwj.png"
+   ],
+   "meta": "TALLA W36/L34 · MUY BUENO",
+   "name": "Vaquero Pierre Cardin Dijon azul, talla W36 L34",
+   "price": "19,95 €",
+   "slug": "vaquero-pierre-cardin-dijon-azul-talla-w36-l34",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790701235/inventario-pro/decada/len2g52yzjfsqvgebn7m.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790626096/inventario-pro/decada/vezo9rihsdwml59yrbt8.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790681066/inventario-pro/decada/km6pzcx2oq7jamyap1tf.png"
@@ -123,8 +171,8 @@
   {
    "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753362/inventario-pro/decada/voahes13u5tenn4hyrd6.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766910/inventario-pro/decada/l2eilytmilnvdfx02uhh.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682530/inventario-pro/decada/luirbbrudwqrcvwcrish.png"
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682530/inventario-pro/decada/luirbbrudwqrcvwcrish.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766910/inventario-pro/decada/l2eilytmilnvdfx02uhh.jpg"
    ],
    "meta": "TALLA L · MUY BUENO",
    "name": "Chaqueta bomber roja satinada estilo universitario, talla L",
@@ -731,6 +779,18 @@
   }
  ],
  "mujer": [
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792692162/inventario-pro/decada/j4ztyxb2aosniqcgmjpb.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792691975/inventario-pro/decada/okyzoxqbgxgwhj1kscrv.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792691852/inventario-pro/decada/himkzc6zihxmk2uayxkn.png"
+   ],
+   "meta": "TALLA 33 · MUY BUENO",
+   "name": "Vaquero Laura Biagiotti Jeans vintage azul wide bordado rosa mujer",
+   "price": "29,95 €",
+   "slug": "vaquero-laura-biagiotti-jeans-vintage-azul-wide-bordado-rosa-mujer",
+   "condition": ""
+  },
   {
    "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790700102/inventario-pro/decada/veffc5d3o4hgutlaib5n.jpg",
