@@ -67,6 +67,11 @@
   "LARGO": "56 cm",
   "PECHO": "49 cm"
  },
+ "chaqueta-adidas-vintage-negra-con-capucha-y-rayas-laterales": {
+  "CINTURA": "47 cm",
+  "LARGO": "65 cm",
+  "PECHO": "51 cm"
+ },
  "chaqueta-bomber-negra-satinada-con-parche-bordado-estilo-college": {
   "CINTURA": "46 cm",
   "LARGO": "70 cm",
@@ -109,6 +114,11 @@
   "LARGO": "65 cm",
   "PECHO": "66 cm"
  },
+ "chaqueta-eddie-bauer-vintage-azul-petroleo-con-capucha": {
+  "CINTURA": "62 cm",
+  "LARGO": "66 cm",
+  "PECHO": "54 cm"
+ },
  "chaqueta-fila-gris-oscuro-talla-xl": {
   "CINTURA": "61 cm",
   "LARGO": "68 cm",
@@ -128,6 +138,11 @@
   "CINTURA": "56 cm",
   "LARGO": "61 cm",
   "PECHO": "54 cm"
+ },
+ "chaqueta-nike-acg-vintage-gris-y-azul-marino-con-capucha": {
+  "CINTURA": "50 cm",
+  "LARGO": "60 cm",
+  "PECHO": "55 cm"
  },
  "chaqueta-nike-dri-fit-vintage-azul-marino-con-cremallera": {
   "CINTURA": "48 cm",
@@ -174,6 +189,21 @@
   "CINTURA": "50 cm",
   "LARGO": "66 cm",
   "PECHO": "60 cm"
+ },
+ "cortavientos-nike-negro-y-gris-con-rayas-reflectantes-talla-l": {
+  "CINTURA": "65 cm",
+  "LARGO": "70 cm",
+  "PECHO": "68 cm"
+ },
+ "cortavientos-old-navy-negro-con-cremalleras-blancas": {
+  "CINTURA": "59 cm",
+  "LARGO": "70 cm",
+  "PECHO": "62 cm"
+ },
+ "cortavientos-starter-gris-oscuro-y-naranja-con-capucha-talla-3xl": {
+  "CINTURA": "73 cm",
+  "LARGO": "75 cm",
+  "PECHO": "72 cm"
  },
  "falda-vaquera-trussardi-marron-cargo-talla-m": {
   "CINTURA": "43 cm",
@@ -341,6 +371,11 @@
   "ENTREPIERNA": "24 cm",
   "LARGO": "95 cm"
  },
+ "vaquero-blue-space-azul-oscuro-talla-44": {
+  "CINTURA": "35 cm",
+  "ENTREPIERNA": "25 cm",
+  "LARGO": "97 cm"
+ },
  "vaquero-calvin-klein-negro-talla-l": {
   "CINTURA": "41 cm",
   "ENTREPIERNA": "26 cm",
@@ -350,6 +385,11 @@
   "CINTURA": "34 cm",
   "ENTREPIERNA": "30 cm",
   "LARGO": "101 cm"
+ },
+ "vaquero-carrera-vintage-beige-carpenter-corte-recto-made-in-italy": {
+  "CINTURA": "38 cm",
+  "ENTREPIERNA": "20 cm",
+  "LARGO": "100 cm"
  },
  "vaquero-estampado-geometrico-cintura-elastica": {
   "CINTURA": "31 cm",
@@ -386,6 +426,11 @@
   "CINTURA": "34 cm",
   "LARGO": "98 cm"
  },
+ "vaquero-north-western-vintage-crema-talla-31": {
+  "CINTURA": "40 cm",
+  "ENTREPIERNA": "29 cm",
+  "LARGO": "100 cm"
+ },
  "vaquero-pierre-cardin-ancho-beige-talla-m": {
   "CINTURA": "37 cm",
   "ENTREPIERNA": "25 cm",
@@ -419,6 +464,10 @@
  "vaquero-tommy-jeans-azul-talla-30": {
   "CINTURA": "36 cm",
   "LARGO": "97 cm"
+ },
+ "vaquero-trussardi-jeans-vintage-marron-lavado-talla-44": {
+  "CINTURA": "41 cm",
+  "LARGO": "102 cm"
  },
  "vaquero-vintage-azul-wide-leg-talla-w30": {
   "CINTURA": "38 cm",

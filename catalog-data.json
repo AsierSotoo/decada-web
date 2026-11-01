@@ -2,6 +2,30 @@
  "hombre": [
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793037565/inventario-pro/decada/ad7pe2mjnnefndo3erq8.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793037372/inventario-pro/decada/sij9j085grgwwnpl1epp.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793530955/inventario-pro/decada/ap3kjs7hy4qtxce2tzuv.png"
+   ],
+   "meta": "TALLA 31 · MUY BUENO",
+   "name": "Vaquero North Western vintage crema talla 31",
+   "price": "17,95 €",
+   "slug": "vaquero-north-western-vintage-crema-talla-31",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793041289/inventario-pro/decada/mo1vhwbebqkf65v8rcbr.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793041452/inventario-pro/decada/vnrymxbshmv09sovm7h4.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793531197/inventario-pro/decada/q24xpgbbbfjqq2aua4y9.png"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Chaqueta Nike ACG vintage gris y azul marino talla M",
+   "price": "29,95 €",
+   "slug": "chaqueta-nike-acg-vintage-gris-y-azul-marino-con-capucha",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792772141/inventario-pro/decada/p74zdax92zq3v4bqodur.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793033743/inventario-pro/decada/w4hbwkckwzbly8nohtwy.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792772141/inventario-pro/decada/nbntyvwuatvly7omqzpg.jpg"
@@ -14,6 +38,42 @@
   },
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740530/inventario-pro/decada/jn3tyoqaxk2v9jjalmhu.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793532226/inventario-pro/decada/nrtbm7u5lndhwualybrg.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793533957/inventario-pro/decada/zjbh2zaptehp0spprxpp.png"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Cortavientos Nike vintage negro y gris talla L",
+   "price": "19,99 €",
+   "slug": "cortavientos-nike-negro-y-gris-con-rayas-reflectantes-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740516/inventario-pro/decada/t58ftciiy8dnakjbvnwn.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793532731/inventario-pro/decada/apd335ekospahvmb5h3b.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793533724/inventario-pro/decada/hcatq0o3wetcg68srbi6.png"
+   ],
+   "meta": "TALLA 3XL · MUY BUENO",
+   "name": "Cortavientos Starter vintage gris y naranja talla 3XL",
+   "price": "16,95 €",
+   "slug": "cortavientos-starter-gris-oscuro-y-naranja-con-capucha-talla-3xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740550/inventario-pro/decada/i8ozkqqorrj5volzwvpd.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793035658/inventario-pro/decada/xauhz5hetbgqgdaugyy0.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793453752/inventario-pro/decada/jpvr7dqm8fgc4qmko2su.png"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Cortavientos Old Navy vintage negro talla L",
+   "price": "16,95 €",
+   "slug": "cortavientos-old-navy-negro-con-cremalleras-blancas",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740523/inventario-pro/decada/zu9clhrigq7usuen97yt.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793033355/inventario-pro/decada/yxue7ss6bzlduhxpl35e.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792688799/inventario-pro/decada/f794ldguo6bhtseog1je.jpg"
@@ -22,6 +82,18 @@
    "name": "Chaqueta Nike Dri-FIT vintage azul marino con cremallera",
    "price": "24,95 €",
    "slug": "chaqueta-nike-dri-fit-vintage-azul-marino-con-cremallera",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740495/inventario-pro/decada/cxtbmv0xzcvmvfzxpabl.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793532001/inventario-pro/decada/rwjtqmoguzkbuapslnks.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793532998/inventario-pro/decada/r6obnhkktvlstratfcem.png"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta Adidas vintage negra con capucha talla L",
+   "price": "22,95 €",
+   "slug": "chaqueta-adidas-vintage-negra-con-capucha-y-rayas-laterales",
    "condition": ""
   },
   {
@@ -159,8 +231,8 @@
   {
    "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753362/inventario-pro/decada/voahes13u5tenn4hyrd6.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682530/inventario-pro/decada/luirbbrudwqrcvwcrish.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766910/inventario-pro/decada/l2eilytmilnvdfx02uhh.jpg"
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766910/inventario-pro/decada/l2eilytmilnvdfx02uhh.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682530/inventario-pro/decada/luirbbrudwqrcvwcrish.png"
    ],
    "meta": "TALLA L · MUY BUENO",
    "name": "Chaqueta bomber roja satinada estilo universitario, talla L",
@@ -769,6 +841,42 @@
  "mujer": [
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792772243/inventario-pro/decada/pzmu2hejduugok4dnfgw.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793035976/inventario-pro/decada/wppvzmonu7viljwewucx.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793454043/inventario-pro/decada/gedyjehx2xfnj7hyyqyj.png"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Chaqueta Eddie Bauer vintage azul petróleo talla XL",
+   "price": "22,95 €",
+   "slug": "chaqueta-eddie-bauer-vintage-azul-petroleo-con-capucha",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740489/inventario-pro/decada/dwaqnebdubikgwos7qvn.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792688172/inventario-pro/decada/onmvvow8r9lfargozw40.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792691022/inventario-pro/decada/f9ut9bimviacp2qlyu4z.png"
+   ],
+   "meta": "TALLA 44 (W30 · UK 28) · MUY BUENO",
+   "name": "Vaquero Trussardi vintage marrón lavado talla 44",
+   "price": "17,95 €",
+   "slug": "vaquero-trussardi-jeans-vintage-marron-lavado-talla-44",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792692630/inventario-pro/decada/hbkp6wwlrvxjbdzfrwd2.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792692716/inventario-pro/decada/tbdqxa4lrcpfu7slpmwz.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793453499/inventario-pro/decada/eh1vacroquxgxiynjjb5.png"
+   ],
+   "meta": "TALLA W28 · MUY BUENO",
+   "name": "Vaquero Carrera vintage beige pernera ancha talla W28",
+   "price": "19,95 €",
+   "slug": "vaquero-carrera-vintage-beige-carpenter-corte-recto-made-in-italy",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792692162/inventario-pro/decada/j4ztyxb2aosniqcgmjpb.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792691975/inventario-pro/decada/okyzoxqbgxgwhj1kscrv.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792691852/inventario-pro/decada/himkzc6zihxmk2uayxkn.png"
@@ -777,6 +885,18 @@
    "name": "Vaquero Laura Biagiotti Jeans vintage azul wide bordado rosa mujer",
    "price": "29,95 €",
    "slug": "vaquero-laura-biagiotti-jeans-vintage-azul-wide-bordado-rosa-mujer",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792509438/inventario-pro/decada/kewkrbiliyt7hs3n12ho.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792509730/inventario-pro/decada/qxyzaen0ynyh2wiexyea.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793453210/inventario-pro/decada/xpxhx1tojr8gcuevyq3x.png"
+   ],
+   "meta": "TALLA 44 · MUY BUENO",
+   "name": "Vaquero Blue Space vintage azul oscuro talla 44",
+   "price": "16,95 €",
+   "slug": "vaquero-blue-space-azul-oscuro-talla-44",
    "condition": ""
   },
   {
