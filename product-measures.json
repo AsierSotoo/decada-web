@@ -72,6 +72,11 @@
   "LARGO": "65 cm",
   "PECHO": "51 cm"
  },
+ "chaqueta-adidas-vintage-negra-con-capucha-y-tres-rayas": {
+  "CINTURA": "48 cm",
+  "LARGO": "71 cm",
+  "PECHO": "52 cm"
+ },
  "chaqueta-bomber-negra-satinada-con-parche-bordado-estilo-college": {
   "CINTURA": "46 cm",
   "LARGO": "70 cm",
@@ -139,6 +144,11 @@
   "LARGO": "61 cm",
   "PECHO": "54 cm"
  },
+ "chaqueta-london-fog-vintage-beige-con-cuello-y-cremallera": {
+  "CINTURA": "50 cm",
+  "LARGO": "62 cm",
+  "PECHO": "58 cm"
+ },
  "chaqueta-nike-acg-vintage-gris-y-azul-marino-con-capucha": {
   "CINTURA": "50 cm",
   "LARGO": "60 cm",
@@ -163,6 +173,11 @@
   "CINTURA": "52 cm",
   "LARGO": "68 cm",
   "PECHO": "64 cm"
+ },
+ "chaqueta-tommy-hilfiger-vintage-crema-con-cuello-camisero-y-bolsillos": {
+  "CINTURA": "58 cm",
+  "LARGO": "71 cm",
+  "PECHO": "53 cm"
  },
  "cortavientos-adidas-azul-marino-franja-amarilla-talla-l": {
   "CINTURA": "50 cm",
@@ -303,12 +318,6 @@
   "LARGO": "59 cm",
   "PECHO": "43 cm"
  },
- "sudadera-champion-azul-marino-talla-m": {
-  "CINTURA": "47 cm",
-  "HOMBROS": "44 cm",
-  "LARGO": "60 cm",
-  "PECHO": "47 cm"
- },
  "sudadera-champion-negra": {
   "CINTURA": "40 cm",
   "HOMBROS": "44 cm",
@@ -396,6 +405,11 @@
   "ENTREPIERNA": "25 cm",
   "LARGO": "99 cm"
  },
+ "vaquero-gris-destenido-con-franja-lateral-azul-talla-46": {
+  "CINTURA": "44 cm",
+  "ENTREPIERNA": "27 cm",
+  "LARGO": "98 cm"
+ },
  "vaquero-guess-brittney-skinny-verde-talla-28": {
   "CINTURA": "35 cm"
  },
@@ -440,6 +454,11 @@
   "CINTURA": "43 cm",
   "ENTREPIERNA": "28 cm",
   "LARGO": "105 cm"
+ },
+ "vaquero-rifle-vintage-azul-claro-lavado": {
+  "CINTURA": "30 cm",
+  "ENTREPIERNA": "20 cm",
+  "LARGO": "99 cm"
  },
  "vaquero-rustler-negro": {
   "CINTURA": "40 cm",

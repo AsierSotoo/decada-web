@@ -2,6 +2,18 @@
  "hombre": [
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793114276/inventario-pro/decada/uqhskwac1ck4gjmi9ytl.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793114406/inventario-pro/decada/eoms9cznqkp8qq8zzmlv.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793700508/inventario-pro/decada/apdwjteeo78pfxkgqxo6.png"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta London Fog vintage beige talla L",
+   "price": "19,95 €",
+   "slug": "chaqueta-london-fog-vintage-beige-con-cuello-y-cremallera",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793037565/inventario-pro/decada/ad7pe2mjnnefndo3erq8.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793037372/inventario-pro/decada/sij9j085grgwwnpl1epp.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793530955/inventario-pro/decada/ap3kjs7hy4qtxce2tzuv.png"
@@ -34,6 +46,18 @@
    "name": "Chaqueta L.L.Bean vintage negra con capucha",
    "price": "22,95 €",
    "slug": "chaqueta-l-l-bean-vintage-negra-con-capucha",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793040346/inventario-pro/decada/unijihtvmajdfmklz2qh.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793701443/inventario-pro/decada/h1ou6ibm6w8mlntbds8h.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793531685/inventario-pro/decada/q4lfp5fe0cewvmeu9zqs.png"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Chaqueta Adidas vintage negra tres rayas con capucha talla M",
+   "price": "24,95 €",
+   "slug": "chaqueta-adidas-vintage-negra-con-capucha-y-tres-rayas",
    "condition": ""
   },
   {
@@ -106,6 +130,18 @@
    "name": "Vaquero Pierre Cardin Dijon azul, talla W36 L34",
    "price": "19,95 €",
    "slug": "vaquero-pierre-cardin-dijon-azul-talla-w36-l34",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792576938/inventario-pro/decada/nxopoxcju6zsaap5ywpl.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792770085/inventario-pro/decada/te96aknbds3xesozofz7.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793530541/inventario-pro/decada/yz6hkr2rcp482dl5xkks.png"
+   ],
+   "meta": "TALLA 46/W32 · MUY BUENO",
+   "name": "Vaquero gris vintage con franja lateral azul talla 46",
+   "price": "17,95 €",
+   "slug": "vaquero-gris-destenido-con-franja-lateral-azul-talla-46",
    "condition": ""
   },
   {
@@ -780,18 +816,6 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789120391/inventario-pro/decada/pip0znqt7gd6anslf6et.jpg",
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1789120391/inventario-pro/decada/teuzcez0lrbckddntgct.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142766/inventario-pro/decada/kfbxssj7hgejy8xplu8v.jpg"
-   ],
-   "meta": "TALLA M · MUY BUENO",
-   "name": "Sudadera Champion azul marino, talla M",
-   "price": "9,95 €",
-   "slug": "sudadera-champion-azul-marino-talla-m",
-   "condition": ""
-  },
-  {
-   "imgs": [
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1785940579/inventario-pro/decada/ibqadmwlhnwyxtbrfv4t.jpg"
    ],
    "meta": "TALLA M · MUY BUENO",
@@ -839,6 +863,30 @@
   }
  ],
  "mujer": [
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793109066/inventario-pro/decada/nppxtgljrp2rwx2playw.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793109351/inventario-pro/decada/dqhej6cvvmbqoewazpsg.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793701536/inventario-pro/decada/yrfmogh2jrcuisuslu9x.png"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Chaqueta Tommy Hilfiger vintage crema talla L",
+   "price": "24,95 €",
+   "slug": "chaqueta-tommy-hilfiger-vintage-crema-con-cuello-camisero-y-bolsillos",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793783111/inventario-pro/decada/jcyi8eajzq3szirndype.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793783312/inventario-pro/decada/b0eog4svdrtyt6gifb4r.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793783031/inventario-pro/decada/pfs8adbmekmkiscmtryk.png"
+   ],
+   "meta": "TALLA W28/L30 · MUY BUENO",
+   "name": "Vaquero Rifle vintage azul claro lavado W28 L30",
+   "price": "19,95 €",
+   "slug": "vaquero-rifle-vintage-azul-claro-lavado",
+   "condition": ""
+  },
   {
    "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792772243/inventario-pro/decada/pzmu2hejduugok4dnfgw.jpg",
