@@ -50,18 +50,6 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793040346/inventario-pro/decada/unijihtvmajdfmklz2qh.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793701443/inventario-pro/decada/h1ou6ibm6w8mlntbds8h.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793531685/inventario-pro/decada/q4lfp5fe0cewvmeu9zqs.png"
-   ],
-   "meta": "TALLA M · MUY BUENO",
-   "name": "Chaqueta Adidas vintage negra tres rayas con capucha talla M",
-   "price": "24,95 €",
-   "slug": "chaqueta-adidas-vintage-negra-con-capucha-y-tres-rayas",
-   "condition": ""
-  },
-  {
-   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740530/inventario-pro/decada/jn3tyoqaxk2v9jjalmhu.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793532226/inventario-pro/decada/nrtbm7u5lndhwualybrg.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793533957/inventario-pro/decada/zjbh2zaptehp0spprxpp.png"
@@ -106,18 +94,6 @@
    "name": "Chaqueta Nike Dri-FIT vintage azul marino con cremallera",
    "price": "24,95 €",
    "slug": "chaqueta-nike-dri-fit-vintage-azul-marino-con-cremallera",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740495/inventario-pro/decada/cxtbmv0xzcvmvfzxpabl.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793532001/inventario-pro/decada/rwjtqmoguzkbuapslnks.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793532998/inventario-pro/decada/r6obnhkktvlstratfcem.png"
-   ],
-   "meta": "TALLA L · MUY BUENO",
-   "name": "Chaqueta Adidas vintage negra con capucha talla L",
-   "price": "22,95 €",
-   "slug": "chaqueta-adidas-vintage-negra-con-capucha-y-rayas-laterales",
    "condition": ""
   },
   {
@@ -394,18 +370,6 @@
    "name": "Camiseta manga larga Superdry azul y gris",
    "price": "9,95 €",
    "slug": "camiseta-manga-larga-superdry-azul-y-gris",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426923/inventario-pro/decada/g9tqrtxcfgughf1vluz5.jpg",
-    "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788426923/inventario-pro/decada/ipjp2mcpfjp6ceimdomt.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141896/inventario-pro/decada/nnvlqwdgp0yfmwpkyqh1.jpg"
-   ],
-   "meta": "TALLA L · MUY BUENO",
-   "name": "Vaquero Rustler negro",
-   "price": "14,95 €",
-   "slug": "vaquero-rustler-negro",
    "condition": ""
   },
   {
@@ -911,18 +875,6 @@
    "name": "Chaqueta deportiva Adidas gris con ribetes rojos talla L",
    "price": "19,95 €",
    "slug": "chaqueta-deportiva-adidas-gris-con-ribetes-rojos-talla-l",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790700548/inventario-pro/decada/ijpr7xeka5que9vue14d.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790700548/inventario-pro/decada/rmdfp1fxmyeibc1mpq2t.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682492/inventario-pro/decada/fd5yirlarluyox9ftnry.png"
-   ],
-   "meta": "TALLA S · MUY BUENO",
-   "name": "Chaqueta Adidas Originals rosa y negra con capucha, talla S",
-   "price": "24,95 €",
-   "slug": "chaqueta-adidas-originals-rosa-y-negra-con-capucha-talla-s",
    "condition": ""
   },
   {
