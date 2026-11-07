@@ -103,6 +103,11 @@
   "LARGO": "66 cm",
   "PECHO": "54 cm"
  },
+ "chaqueta-eddie-bauer-vintage-bicolor-morada-y-lila-con-capucha": {
+  "CINTURA": "53 cm",
+  "LARGO": "60 cm",
+  "PECHO": "51 cm"
+ },
  "chaqueta-fila-gris-oscuro-talla-xl": {
   "CINTURA": "61 cm",
   "LARGO": "68 cm",
@@ -113,6 +118,11 @@
   "LARGO": "59 cm",
   "PECHO": "38 cm"
  },
+ "chaqueta-geox-respira-blanca-talla-s": {
+  "CINTURA": "43 cm",
+  "LARGO": "55 cm",
+  "PECHO": "50 cm"
+ },
  "chaqueta-gris-jaspeada-con-cremallera-y-cuello-alto-talla-m": {
   "CINTURA": "49 cm",
   "LARGO": "59 cm",
@@ -122,6 +132,11 @@
   "CINTURA": "56 cm",
   "LARGO": "61 cm",
   "PECHO": "54 cm"
+ },
+ "chaqueta-l-l-bean-vintage-verde-oscuro-impermeable-con-capucha": {
+  "CINTURA": "62 cm",
+  "LARGO": "72 cm",
+  "PECHO": "63 cm"
  },
  "chaqueta-london-fog-vintage-beige-con-cuello-y-cremallera": {
   "CINTURA": "50 cm",
@@ -164,6 +179,10 @@
   "LARGO": "64 cm",
   "PECHO": "58 cm"
  },
+ "cortavientos-adidas-vintage-azul-marino-con-capucha-talla-l": {
+  "LARGO": "62 cm",
+  "PECHO": "65 cm"
+ },
  "cortavientos-azul-electrico-talla-por-confirmar": {
   "CINTURA": "62 cm",
   "LARGO": "76 cm",
@@ -198,6 +217,11 @@
   "CINTURA": "73 cm",
   "LARGO": "75 cm",
   "PECHO": "72 cm"
+ },
+ "cortavientos-starter-vintage-negro-con-parche-bordado-de-autobus": {
+  "CINTURA": "48 cm",
+  "LARGO": "67 cm",
+  "PECHO": "61 cm"
  },
  "falda-vaquera-trussardi-marron-cargo-talla-m": {
   "CINTURA": "43 cm",
@@ -278,6 +302,11 @@
   "ENTREPIERNA": "33 cm",
   "LARGO": "112 cm"
  },
+ "pantalon-pacific-trail-beige-talla-w30-l32": {
+  "CINTURA": "34 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "106 cm"
+ },
  "pantalon-vaquero-verde-caqui-ancho-talla-38": {
   "CINTURA": "34 cm",
   "ENTREPIERNA": "28 cm",
@@ -350,6 +379,11 @@
   "ENTREPIERNA": "25 cm",
   "LARGO": "97 cm"
  },
+ "vaquero-blumarine-negro-con-detalle-de-strass-talla-40": {
+  "CINTURA": "40 cm",
+  "ENTREPIERNA": "22 cm",
+  "LARGO": "111 cm"
+ },
  "vaquero-calvin-klein-negro-talla-l": {
   "CINTURA": "41 cm",
   "ENTREPIERNA": "26 cm",
@@ -359,6 +393,11 @@
   "CINTURA": "34 cm",
   "ENTREPIERNA": "30 cm",
   "LARGO": "101 cm"
+ },
+ "vaquero-carrera-jeans-vintage-azul-corte-recto-made-in-italy-hombre": {
+  "CINTURA": "40 cm",
+  "ENTREPIERNA": "20 cm",
+  "LARGO": "100 cm"
  },
  "vaquero-carrera-vintage-beige-carpenter-corte-recto-made-in-italy": {
   "CINTURA": "38 cm",
@@ -405,10 +444,19 @@
   "CINTURA": "34 cm",
   "LARGO": "98 cm"
  },
+ "vaquero-negro-destenido-con-pestana-roja-talla-40": {
+  "CINTURA": "35 cm",
+  "ENTREPIERNA": "24 cm",
+  "LARGO": "99 cm"
+ },
  "vaquero-north-western-vintage-crema-talla-31": {
   "CINTURA": "40 cm",
   "ENTREPIERNA": "29 cm",
   "LARGO": "100 cm"
+ },
+ "vaquero-onyx-vintage-crema-talla-26-made-in-italy": {
+  "CINTURA": "29 cm",
+  "LARGO": "95 cm"
  },
  "vaquero-pierre-cardin-ancho-beige-talla-m": {
   "CINTURA": "37 cm",
