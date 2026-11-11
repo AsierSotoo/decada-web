@@ -14,18 +14,6 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794070214/inventario-pro/decada/knvea1afaxllocq3qspm.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794070214/inventario-pro/decada/htfnkrj0hljhgy5ljj9f.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794070214/inventario-pro/decada/noz5pyi6x8d2hgouputl.jpg"
-   ],
-   "meta": "TALLA L · MUY BUENO",
-   "name": "Cortavientos Puma negro con capucha y logo en la manga",
-   "price": "19,95 €",
-   "slug": "cortavientos-puma-negro-con-capucha-y-logo-en-la-manga",
-   "condition": ""
-  },
-  {
-   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1794051693/inventario-pro/decada/rmsj7imy66z9t6uweipz.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1794051693/inventario-pro/decada/zelhkw0m6pzqi2dymo0t.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1794051693/inventario-pro/decada/i6ocdlcgml0myvmih4ok.jpg"
@@ -122,6 +110,66 @@
   },
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387754/inventario-pro/decada/vgdq5ityjugj3z8gtigz.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387754/inventario-pro/decada/wys4048ohhmazl4l2u97.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387753/inventario-pro/decada/lgys0ili7hdg1fjw7mgn.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Chaqueta London Fog vintage beige tipo Harrington",
+   "price": "22,95 €",
+   "slug": "chaqueta-london-fog-vintage-beige-tipo-harrington",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387802/inventario-pro/decada/a0zhkt5cxz6najf4tdta.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387802/inventario-pro/decada/n6vp32jrs11h8chutp1v.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387802/inventario-pro/decada/d4otdqytnfgqzfizx0le.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Cortavientos Dockers vintage beige con laterales negros",
+   "price": "17,95 €",
+   "slug": "cortavientos-dockers-vintage-beige-con-laterales-negros",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387849/inventario-pro/decada/orlx5kmbnddwfbckyzn4.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387850/inventario-pro/decada/n7i43mgjdtyyxbhowp8h.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387849/inventario-pro/decada/g4o94dkocxj2diylfcm8.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Chaqueta cortavientos Under Armour azul eléctrico y gris con capucha",
+   "price": "22,95 €",
+   "slug": "chaqueta-cortavientos-under-armour-azul-electrico-y-gris-con-capucha",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387897/inventario-pro/decada/el3xypsvebtctbcea16z.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387897/inventario-pro/decada/hchhkxcxfwsehjshkkyj.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387897/inventario-pro/decada/d4d5bprw90ezcdyesobm.jpg"
+   ],
+   "meta": "TALLA XL · MUY BUENO",
+   "name": "Sudadera cortavientos Nike negra con capucha y media cremallera",
+   "price": "19,95 €",
+   "slug": "sudadera-cortavientos-nike-negra-con-capucha-y-media-cremallera",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387946/inventario-pro/decada/txxrgf8nl3qrj0ivenld.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387946/inventario-pro/decada/w7i6tqo15526maozmmxs.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387946/inventario-pro/decada/i5jopq5h7yxfipz6wwao.jpg"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Parka Tommy Hilfiger con capucha gris y rayas marineras",
+   "price": "24,95 €",
+   "slug": "parka-tommy-hilfiger-con-capucha-gris-y-rayas-marineras",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793793094/inventario-pro/decada/e0whmqcbeblxidhbvfow.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793879102/inventario-pro/decada/y2q3b5xeu1qa5x7wuhv8.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793816215/inventario-pro/decada/xdvpo7ixcj0xl6loqzdt.png"
@@ -130,6 +178,42 @@
    "name": "Cortavientos Adidas vintage azul marino con capucha – talla L",
    "price": "24,95 €",
    "slug": "cortavientos-adidas-vintage-azul-marino-con-capucha-talla-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793260425/inventario-pro/decada/qsgfuc5v4tj6bywdnj1m.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793950212/inventario-pro/decada/c8hgjea9ra5f9drd8ygs.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793950246/inventario-pro/decada/guukb4aft19pnfzaclwd.png"
+   ],
+   "meta": "TALLA L · BUENO",
+   "name": "Bomber GAP vintage azul marino con cremallera L",
+   "price": "19,95 €",
+   "slug": "bomber-gap-vintage-azul-marino-con-cremallera-l",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793260716/inventario-pro/decada/orf41xpulw6uhqtkdo7k.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793886583/inventario-pro/decada/dgqj8vyxkmycecccslh7.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793886927/inventario-pro/decada/ozic3ssgt7zyfowxpnsq.png"
+   ],
+   "meta": "TALLA XL · BUENO",
+   "name": "Chaqueta Chaps vintage negra cuello camisero XL",
+   "price": "19,95 €",
+   "slug": "chaqueta-chaps-vintage-negra-cuello-camisero-xl",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793260719/inventario-pro/decada/tlsb4y2qg5yvpy0wamks.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793888390/inventario-pro/decada/fbhx9tphygqtfaze7fcn.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793888424/inventario-pro/decada/ra5m1ofkawww5kfqdmzi.png"
+   ],
+   "meta": "TALLA L · BUENO",
+   "name": "Cortavientos Arizona vintage azul marino con capucha L",
+   "price": "15,95 €",
+   "slug": "cortavientos-arizona-vintage-azul-marino-con-capucha-l",
    "condition": ""
   },
   {
@@ -411,8 +495,8 @@
   {
    "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753362/inventario-pro/decada/voahes13u5tenn4hyrd6.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682530/inventario-pro/decada/luirbbrudwqrcvwcrish.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766910/inventario-pro/decada/l2eilytmilnvdfx02uhh.jpg"
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766910/inventario-pro/decada/l2eilytmilnvdfx02uhh.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682530/inventario-pro/decada/luirbbrudwqrcvwcrish.png"
    ],
    "meta": "TALLA L · MUY BUENO",
    "name": "Chaqueta bomber roja satinada estilo universitario, talla L",
@@ -939,6 +1023,18 @@
  "mujer": [
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794070214/inventario-pro/decada/knvea1afaxllocq3qspm.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794070214/inventario-pro/decada/htfnkrj0hljhgy5ljj9f.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794070214/inventario-pro/decada/noz5pyi6x8d2hgouputl.jpg"
+   ],
+   "meta": "TALLA L · MUY BUENO",
+   "name": "Cortavientos Puma negro con capucha y logo en la manga",
+   "price": "19,95 €",
+   "slug": "cortavientos-puma-negro-con-capucha-y-logo-en-la-manga",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793111729/inventario-pro/decada/zz8zgcgeyupnq4jgvhkx.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793784191/inventario-pro/decada/xh5wbhx3gw8yluopfdbr.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793784278/inventario-pro/decada/lb4p6jxm46exheqrajky.png"
@@ -999,6 +1095,18 @@
   },
   {
    "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740453/inventario-pro/decada/dln9fhwdb3pi3lfwjydr.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792687998/inventario-pro/decada/jjem1rkxo3xxb36si03n.jpg",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793991305/inventario-pro/decada/r3ymwuwny4uwbjsag5yv.png"
+   ],
+   "meta": "TALLA M · MUY BUENO",
+   "name": "Vaquero Carrera vintage beige pierna ancha M",
+   "price": "14,95 €",
+   "slug": "vaquero-carrera-beige-de-corte-recto-y-cinco-bolsillos",
+   "condition": ""
+  },
+  {
+   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1794048278/inventario-pro/decada/ttvx4rjahmdnphgjtkwr.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1794048315/inventario-pro/decada/u0gggnc6dhbhyuhmdlm8.png",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1793784535/inventario-pro/decada/l886pe9z3cxe4t3rrmfn.png"
@@ -1043,6 +1151,18 @@
    "name": "Vaquero negro vintage de tiro alto y pierna recta, talla 40",
    "price": "16,95 €",
    "slug": "vaquero-negro-destenido-con-pestana-roja-talla-40",
+   "condition": ""
+  },
+  {
+   "imgs": [
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792513898/inventario-pro/decada/o5lgc2vbzacn24xmesym.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793039295/inventario-pro/decada/d2vwongkw2bgc2rk0acm.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793986619/inventario-pro/decada/xivq55wwembgzafybyao.png"
+   ],
+   "meta": "TALLA W29/L32 · MUY BUENO",
+   "name": "Vaquero Vintage Dressing azul pierna ancha parche cuero W29 L32",
+   "price": "16,95 €",
+   "slug": "vaquero-azul-con-parche-de-cuero-talla-w29-l32",
    "condition": ""
   },
   {
@@ -1403,9 +1523,9 @@
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1791141767/inventario-pro/decada/qv17i10sgwqtiscfmqsf.jpg"
    ],
    "meta": "TALLA 10-12y · MUY BUENO",
-   "name": "Camiseta Levi's Mujer Rosa Manga Larga",
+   "name": "Camiseta Levi's niña rosa manga larga",
    "price": "9,95 €",
-   "slug": "camiseta-levi-s-mujer-rosa-manga-larga",
+   "slug": "camiseta-levi-s-nina-rosa-manga-larga",
    "condition": ""
   },
   {
@@ -1415,9 +1535,9 @@
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142148/inventario-pro/decada/lzonxg6uc8fpvygsrnft.jpg"
    ],
    "meta": "TALLA M · MUY BUENO",
-   "name": "Chaqueta Adidas Hombre Gris con Capucha 3 Bandas",
+   "name": "Chaqueta Adidas infantil gris con capucha y 3 bandas",
    "price": "19,95 €",
-   "slug": "chaqueta-adidas-hombre-gris-con-capucha-3-bandas",
+   "slug": "chaqueta-adidas-infantil-gris-con-capucha-y-3-bandas",
    "condition": ""
   },
   {
@@ -1426,10 +1546,10 @@
     "https://res.cloudinary.com/dhw3qjhlb/image/upload/v1788427826/inventario-pro/decada/icse6uxjfrapiz1bdwf6.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1791142154/inventario-pro/decada/yqltw5iavuyfys2tytjp.jpg"
    ],
-   "meta": "TALLA XL NIÑO",
-   "name": "Sudadera Nike Tech Fleece Hombre Negra Premium",
+   "meta": "TALLA XL NIÑO · MUY BUENO",
+   "name": "Sudadera Nike Tech Fleece infantil negra",
    "price": "14,95 €",
-   "slug": "sudadera-nike-tech-fleece-hombre-negra-premium",
+   "slug": "sudadera-nike-tech-fleece-infantil-negra",
    "condition": ""
   }
  ]

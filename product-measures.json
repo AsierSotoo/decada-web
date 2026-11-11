@@ -1,4 +1,9 @@
 {
+ "bomber-gap-vintage-azul-marino-con-cremallera-l": {
+  "CINTURA": "50 cm",
+  "LARGO": "68 cm",
+  "PECHO": "55 cm"
+ },
  "camisa-la-martina-polo-pampas-azul-marino-talla-m": {
   "CINTURA": "47 cm",
   "LARGO": "60 cm",
@@ -19,7 +24,7 @@
   "CINTURA": "53 cm",
   "LARGO": "67 cm"
  },
- "camiseta-levi-s-mujer-rosa-manga-larga": {
+ "camiseta-levi-s-nina-rosa-manga-larga": {
   "HOMBROS": "28 cm",
   "LARGO": "47 cm",
   "PECHO": "32 cm"
@@ -57,7 +62,7 @@
   "LARGO": "60 cm",
   "PECHO": "54 cm"
  },
- "chaqueta-adidas-hombre-gris-con-capucha-3-bandas": {
+ "chaqueta-adidas-infantil-gris-con-capucha-y-3-bandas": {
   "HOMBROS": "39 cm",
   "LARGO": "56 cm",
   "PECHO": "44 cm"
@@ -91,6 +96,11 @@
   "CINTURA": "56 cm",
   "LARGO": "67 cm",
   "PECHO": "66 cm"
+ },
+ "chaqueta-chaps-vintage-negra-cuello-camisero-xl": {
+  "CINTURA": "61 cm",
+  "LARGO": "65 cm",
+  "PECHO": "62 cm"
  },
  "chaqueta-deportiva-azul-marino-usa-talla-xl": {
   "CINTURA": "52 cm",
@@ -177,6 +187,11 @@
  "cortavientos-adidas-vintage-azul-marino-con-capucha-talla-l": {
   "LARGO": "62 cm",
   "PECHO": "65 cm"
+ },
+ "cortavientos-arizona-vintage-azul-marino-con-capucha-l": {
+  "CINTURA": "61 cm",
+  "LARGO": "69 cm",
+  "PECHO": "66 cm"
  },
  "cortavientos-azul-electrico-talla-por-confirmar": {
   "CINTURA": "62 cm",
@@ -318,7 +333,7 @@
   "LARGO": "63 cm",
   "PECHO": "50 cm"
  },
- "sudadera-nike-tech-fleece-hombre-negra-premium": {
+ "sudadera-nike-tech-fleece-infantil-negra": {
   "HOMBROS": "40 cm",
   "LARGO": "53 cm",
   "PECHO": "47 cm"
@@ -359,6 +374,11 @@
   "ENTREPIERNA": "24 cm",
   "LARGO": "107 cm"
  },
+ "vaquero-azul-con-parche-de-cuero-talla-w29-l32": {
+  "CINTURA": "30 cm",
+  "ENTREPIERNA": "27 cm",
+  "LARGO": "105 cm"
+ },
  "vaquero-azul-otto-kern-talla-s": {
   "CINTURA": "32 cm",
   "ENTREPIERNA": "24 cm",
@@ -383,6 +403,10 @@
   "CINTURA": "34 cm",
   "ENTREPIERNA": "30 cm",
   "LARGO": "101 cm"
+ },
+ "vaquero-carrera-beige-de-corte-recto-y-cinco-bolsillos": {
+  "CINTURA": "38 cm",
+  "LARGO": "107 cm"
  },
  "vaquero-carrera-jeans-vintage-azul-corte-recto-made-in-italy-hombre": {
   "CINTURA": "40 cm",
