@@ -146,18 +146,6 @@
   },
   {
    "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387897/inventario-pro/decada/el3xypsvebtctbcea16z.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387897/inventario-pro/decada/hchhkxcxfwsehjshkkyj.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387897/inventario-pro/decada/d4d5bprw90ezcdyesobm.jpg"
-   ],
-   "meta": "TALLA XL · MUY BUENO",
-   "name": "Sudadera cortavientos Nike negra con capucha y media cremallera",
-   "price": "19,95 €",
-   "slug": "sudadera-cortavientos-nike-negra-con-capucha-y-media-cremallera",
-   "condition": ""
-  },
-  {
-   "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387946/inventario-pro/decada/txxrgf8nl3qrj0ivenld.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387946/inventario-pro/decada/w7i6tqo15526maozmmxs.jpg",
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1794387946/inventario-pro/decada/i5jopq5h7yxfipz6wwao.jpg"
@@ -310,18 +298,6 @@
    "name": "Cortavientos Old Navy vintage negro talla L",
    "price": "16,95 €",
    "slug": "cortavientos-old-navy-negro-con-cremalleras-blancas",
-   "condition": ""
-  },
-  {
-   "imgs": [
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792740523/inventario-pro/decada/zu9clhrigq7usuen97yt.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1793033355/inventario-pro/decada/yxue7ss6bzlduhxpl35e.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1792688799/inventario-pro/decada/f794ldguo6bhtseog1je.jpg"
-   ],
-   "meta": "TALLA L · MUY BUENO",
-   "name": "Chaqueta Nike Dri-FIT vintage azul marino con cremallera",
-   "price": "24,95 €",
-   "slug": "chaqueta-nike-dri-fit-vintage-azul-marino-con-cremallera",
    "condition": ""
   },
   {
@@ -495,8 +471,8 @@
   {
    "imgs": [
     "https://res.cloudinary.com/wpbxoylc/image/upload/v1790753362/inventario-pro/decada/voahes13u5tenn4hyrd6.png",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766910/inventario-pro/decada/l2eilytmilnvdfx02uhh.jpg",
-    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682530/inventario-pro/decada/luirbbrudwqrcvwcrish.png"
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790682530/inventario-pro/decada/luirbbrudwqrcvwcrish.png",
+    "https://res.cloudinary.com/wpbxoylc/image/upload/v1790766910/inventario-pro/decada/l2eilytmilnvdfx02uhh.jpg"
    ],
    "meta": "TALLA L · MUY BUENO",
    "name": "Chaqueta bomber roja satinada estilo universitario, talla L",
